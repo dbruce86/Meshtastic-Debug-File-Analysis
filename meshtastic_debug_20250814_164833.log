@@ -1,0 +1,6357 @@
+8/14/25 4:48:11 PM [Packet]
+from: 640262788 (!2629a284)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\233g\236h\022\025\bd\025\341z\210@\035\v\327\323?%\035\355\226=(\200\331\a"
+}
+id: 3977017792
+rx_time: 1755211682
+rx_snr: 4.0
+rx_rssi: -104
+hop_start: 5
+relay_node: 24
+
+
+8/14/25 4:48:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\240g\236h\022\024\be\025\215\227\206@\035\375b\021B%\024\365\303?(\241\023"
+}
+id: 1667988139
+rx_time: 1755211680
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:47:55 PM [Packet]
+from: 1000226604 (!3b9e3f2c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\374\024\025\000\000l\300\030\237\f%\217a\236h(\002X\247\001x\000\200\001\360\361\261\004\230\001\006\270\001\r"
+  bitfield: 0
+}
+id: 4241483680
+rx_time: 1755211667
+rx_snr: 2.25
+hop_limit: 4
+rx_rssi: -107
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:47:36 PM [Packet]
+from: 2314940035 (!89fb2e83)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\225g\236h\022\025\be\025Zd\237@\035\327\243\303A%\376g]@(\311\356\v"
+  bitfield: 1
+}
+id: 2863671016
+rx_time: 1755211647
+rx_snr: 4.0
+hop_limit: 1
+rx_rssi: -104
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:47:31 PM [Packet]
+from: 1732965037 (!674af2ad)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\211\334\367\024\025\234\270|\300\030\254\f%\204a\236h(\001x\000\200\001\000\270\001 "
+  bitfield: 1
+}
+id: 3049023539
+rx_time: 1755211642
+rx_snr: 1.0
+rx_rssi: -108
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 4:47:19 PM [Packet]
+from: 1000226604 (!3b9e3f2c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\374\024\025\000\000l\300\030\237\f%\342[\236h(\002X\247\001x\000\200\001\360\361\261\004\230\001\006\270\001\r"
+  bitfield: 0
+}
+id: 2029725599
+rx_time: 1755211630
+rx_snr: 1.5
+hop_limit: 3
+rx_rssi: -107
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:47:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rdg\236h\022\024\be\025\360\247\206@\035\235\266\vB%M\026\302?(\345\022"
+}
+id: 2577489578
+rx_time: 1755211620
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:47:02 PM [Packet]
+from: 2956785920 (!b03cf900)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\274\021%H[\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 1665912012
+rx_time: 1755211614
+rx_snr: -12.0
+rx_rssi: -122
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:46:53 PM [Packet]
+from: 1130011924 (!435a9d14)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\364\024\025\000\000d\300\030\247\f%Yg\236h(\002=Cg\236hX\266\002x\000\200\001\000\230\001\006\260\001\001\270\001\r"
+  bitfield: 0
+}
+id: 1788451203
+rx_time: 1755211605
+rx_snr: -12.25
+hop_limit: 2
+rx_rssi: -123
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:46:43 PM [Packet]
+from: 4066715781 (!f2652885)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\354\024\025\000\000|\300\030\335\f%Hg\236h(\002X\251\001x\000\200\001\230\307\260\003\230\001\t\270\001\r"
+  bitfield: 0
+}
+id: 2102773453
+rx_time: 1755211594
+rx_snr: -12.75
+hop_limit: 4
+rx_rssi: -123
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:46:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r(g\236h\022\024\be\025!\260\206@\035\030K\364A%\271\261\277?(\251\022"
+}
+id: 743804585
+rx_time: 1755211560
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:45:53 PM [Packet]
+from: 3923327838 (!e9d93b5e)
+to: 3663224160 (!da585d60)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!e9d93b5e\022\rCapt_Reg-Base\032\004C_RB\"\006\353\"\351\331;^(\tB |\304\374\336\253\2373\304\326\314A\b\304!\313\272\375\300h\022\334),\254\031\300A\033\274\306\350X"
+  request_id: 520772227
+  bitfield: 0
+}
+id: 2811081139
+rx_time: 1755211543
+rx_snr: 4.25
+hop_limit: 2
+rx_rssi: -104
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:45:38 PM [Packet]
+from: 1595584020 (!5f1aae14)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000l\300\030\321\f%\005g\236h(\002=\375f\236hX\266\002x\002\200\001\000\230\001\006\270\001\r"
+  bitfield: 1
+}
+id: 2654490511
+rx_time: 1755211530
+rx_snr: -12.0
+hop_limit: 3
+rx_rssi: -123
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:45:25 PM [Packet]
+from: 3923327838 (!e9d93b5e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\001g\236h\022\026\bc\025-\262\205@\035\037\205\224A%\255B-@(\224\375\256\001"
+  bitfield: 0
+}
+id: 4097368498
+rx_time: 1755211516
+rx_snr: 4.75
+hop_limit: 2
+rx_rssi: -104
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:45:22 PM [Packet]
+from: 2732898136 (!a2e4b758)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r<\237\367\024\0252\355|\300\030\202\f%\372f\236h(\002X\356\001x\000\200\001\230\330\266\r\230\001\005\270\001 "
+  bitfield: 1
+}
+id: 4021441775
+rx_time: 1755211513
+rx_snr: -12.75
+rx_rssi: -124
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:45:14 PM [Packet]
+from: 861772584 (!335d9b28)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\364\024\025\000\000\244\300\030\375\017%\366f\236h(\003x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 4253619261
+rx_time: 1755211506
+rx_snr: -18.25
+hop_limit: 2
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:45:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\354f\236h\022\024\be\025\215\227\206@\0350\226\315A%N\210\275?(\355\021"
+}
+id: 2384283304
+rx_time: 1755211500
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:44:27 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\271r\277\024\025R\357\\\300\030\355\v%\273f\236h(\002=\242f\236hP/`\323\001x\004\200\001\300\372\335\004\230\001\004\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 876176795
+rx_time: 1755211458
+rx_snr: 4.25
+hop_limit: 2
+rx_rssi: -104
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:44:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\260f\236h\022\024\be\025\276\237\206@\035\357\356\bB%f\371\270?(\261\021"
+}
+id: 3134637735
+rx_time: 1755211440
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:43:41 PM [Packet]
+from: 1819524296 (!6c73bcc8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000l\300\030\323\f%\214f\236h(\002X\233\002x\001\200\001\250\235\325\004\230\001\005\270\001\r"
+  bitfield: 0
+}
+id: 2546118056
+rx_time: 1755211412
+rx_snr: 5.0
+hop_limit: 3
+rx_rssi: -105
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:43:23 PM [Packet]
+from: 2733364712 (!a2ebd5e8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000<\025\025\000\000\314\300\030\210\016%\207f\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 1
+}
+id: 2052006645
+rx_time: 1755211394
+rx_snr: 3.25
+hop_limit: 6
+rx_rssi: -103
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:43:19 PM [Packet]
+from: 2732898136 (!a2e4b758)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r^\315\367\024\025\326\304|\300\030\377\n%\201f\236h(\002X\221\001x\000\200\001\230\330\266\r\230\001\a\270\001 "
+  bitfield: 1
+}
+id: 1292336366
+rx_time: 1755211390
+rx_snr: 3.75
+hop_limit: 1
+rx_rssi: -104
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:43:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rtf\236h\022\024\be\025\360\247\206@\035\371E\tB%\363\261\266?(\365\020"
+}
+id: 663171750
+rx_time: 1755211380
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:42:37 PM [Packet]
+from: 2732898136 (!a2e4b758)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\326\252\367\024\025\215\036}\300\030\200\r%\af\236h(\002X\200\003x\001\200\001\230\330\266\r\230\001\005\270\001 "
+  bitfield: 1
+}
+id: 218846445
+rx_time: 1755211348
+rx_snr: -3.5
+hop_limit: 1
+rx_rssi: -113
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 4:42:23 PM [Packet]
+from: 1128109372 (!433d953c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\217\231\r\025\025g\027\204\300\030\000%\240V\236h(\001x\000\200\001\000\270\001 "
+  bitfield: 0
+}
+id: 110306991
+rx_time: 1755211335
+rx_snr: 3.5
+rx_rssi: -104
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:42:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r8f\236h\022\024\be\025\360\247\206@\035\256G\315A%\025\324\260?(\271\020"
+}
+id: 191014564
+rx_time: 1755211320
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:41:11 PM [Packet]
+from: 3812346704 (!e33bcb50)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\344\024\025\000\000\264\300\030\374\017%\371e\236h(\002X\341\001x\000\200\001\310\335\257\r\230\001\005\270\001\r"
+  bitfield: 0
+}
+id: 568515371
+rx_time: 1755211262
+rx_snr: -12.5
+rx_rssi: -123
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:41:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\374e\236h\022\024\be\025\215\227\206@\035\327\243\331A%\211\033\253?(\375\017"
+}
+id: 259205795
+rx_time: 1755211260
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:40:52 PM [Packet]
+from: 4151336159 (!f7705cdf)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\324e\236h\022\025\b\\\025!\260\202@\035\240S\030B%\313\241\266@(\250\241\024"
+  bitfield: 0
+}
+id: 3201107325
+rx_time: 1755211244
+rx_snr: -12.0
+hop_limit: 5
+rx_rssi: -122
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:40:33 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\323q\277\024\025\272\356\\\300\030\347\v%\325e\236h(\002=\326e\236hP/`\263\002x\003\200\001\300\270\330\r\230\001\005\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 3203797508
+rx_time: 1755211224
+rx_snr: -18.5
+hop_limit: 3
+rx_rssi: -128
+hop_start: 7
+relay_node: 223
+
+
+8/14/25 4:40:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\300e\236h\022\024\be\025\360\247\206@\035A\247\300A%\026\331\242?(\301\017"
+}
+id: 1224492706
+rx_time: 1755211200
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:39:58 PM [Packet]
+from: 72227206 (!044e1986)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\270e\236h\032\n\r\215b\341AM\000\000\310B"
+  bitfield: 1
+}
+id: 964905019
+rx_time: 1755211190
+rx_snr: 4.25
+hop_limit: 1
+rx_rssi: -103
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:39:17 PM [Packet]
+from: 207063912 (!0c578b68)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!0c578b68\022\017Tr0ubl3d Muff1n\032\004TbMu\"\006\334\332\fW\213h(2B \224.\245\266vA<B\312H\313cJ|\006\307A\244\245\206\250a\272\237WH\032\346\335O\370l"
+  bitfield: 0
+}
+id: 2044639655
+rx_time: 1755211148
+rx_snr: 4.5
+rx_rssi: -105
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:39:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\204e\236h2\'\b\205\017\025\375b\310A\035\026\331\242? @(\336\0050584@AH\332\003P;XN`\364\272\vh\214\340\a"
+}
+id: 36174497
+rx_time: 1755211140
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:39:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\204e\236h\022\024\be\025\360\247\206@\035\375b\310A%\026\331\242?(\205\017"
+}
+id: 683877024
+rx_time: 1755211140
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:38:56 PM [Packet]
+from: 4188323786 (!f9a4bfca)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!f9a4bfca\022\003M 6\032\003M 6\"\006\355\030\371\244\277\312(\tB \227gD$\0354}2\226\023=\223\243\ff\333\r6\253-\344L\255\232\342^\232\307\246\004\345@"
+  request_id: 3340364029
+  bitfield: 0
+}
+id: 3217546294
+rx_time: 1755211126
+rx_snr: -13.0
+hop_limit: 1
+rx_rssi: -123
+hop_start: 4
+relay_node: 44
+
+
+8/14/25 4:38:50 PM [Packet]
+from: 614370215 (!249e8ba7)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r8\261\001\025\025\330>t\300\030\211\f%ve\236h(\001\270\001 "
+  bitfield: 0
+}
+id: 4238269135
+rx_time: 1755211121
+rx_snr: 3.5
+hop_limit: 1
+rx_rssi: -103
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:38:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rHe\236h\022\024\be\025\203\300\206@\035t\332\304A%\230\224\237?(\311\016"
+}
+id: 415323807
+rx_time: 1755211080
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:37:35 PM [Packet]
+from: 4157871578 (!f7d415da)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!f7d415da\022\017Meshtastic 15da\032\00415da\"\006\337\220\367\324\025\332(\tB \204\300\253\366iUS\362\032\333\0278\250\324\026F\030\207\325\266\035\242\347}o\364\027\367\373--j"
+  request_id: 3340364029
+  bitfield: 0
+}
+id: 3423863437
+rx_time: 1755211045
+rx_snr: -19.5
+hop_limit: 2
+rx_rssi: -128
+hop_start: 4
+relay_node: 223
+
+
+8/14/25 4:37:21 PM [Packet]
+from: 2732898136 (!a2e4b758)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r1\247\367\024\025M\351|\300\030\357\v%\022e\236h(\002X\356\001x\000\200\001\260\274\220\016\230\001\005\270\001 "
+  bitfield: 1
+}
+id: 583647468
+rx_time: 1755211032
+rx_snr: -19.5
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:37:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\fe\236h\022\024\be\025\360\247\206@\035\025\256/B%N\033\230?(\215\016"
+}
+id: 2239676062
+rx_time: 1755211020
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:36:41 PM [Packet]
+from: 1103005800 (!41be8868)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!41be8868\022\005k4dgg\032\004Doug\"\006\353;A\276\210h(E0\001"
+  request_id: 3340364029
+  bitfield: 0
+}
+id: 1696443754
+rx_time: 1755210992
+rx_snr: -19.5
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:36:19 PM [Packet]
+from: 861772584 (!335d9b28)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!335d9b28\022\rCupc4ke_St4ck\032\004Cu4k\"\006d\3503]\233((+B c@\025\021\034\253\237\263)h\323\211\2436\265/\354W\022M\242X\032w\325Oy\027\037\222cTH\000"
+  request_id: 3340364029
+  bitfield: 0
+}
+id: 2499824691
+rx_time: 1755210971
+rx_snr: -4.0
+hop_limit: 2
+rx_rssi: -115
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 4:36:19 PM [Packet]
+from: 1128110856 (!433d9b08)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!433d9b08\022\006Ekko B\032\004EkoB\"\006H\312C=\233\b(+B =\am[\262\313[UHK\320\3605R3\'\276\375tZQW\3708\367\224LN\305$\341\004"
+  request_id: 3340364029
+  bitfield: 0
+}
+id: 3459277736
+rx_time: 1755210969
+rx_snr: -19.0
+hop_limit: 2
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:36:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\320d\236h\022\024\be\025!\260\206@\035\226\3743B%\306\270\224?(\321\r"
+}
+id: 3727050397
+rx_time: 1755210960
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:36:03 PM [Packet]
+from: 3928300032 (!ea251a00)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\274d\236h\022\025\be\025\033/\211@\035\226\374\203A%P\324\333?(\336\3104"
+  bitfield: 0
+}
+id: 71773462
+rx_time: 1755210954
+rx_snr: 3.75
+hop_limit: 1
+rx_rssi: -104
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:36:01 PM [Packet]
+from: 2691974752 (!a0744660)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!a0744660\022\tSnowMan88\032\004SM88\"\006\310\334\240tF`(\aB #\002\2348\222\313\002?\302\016\262\033\244\204\326\033\352~\224z\235\275bwW\3058\376\220/\236-H\000"
+  request_id: 3340364029
+  bitfield: 0
+}
+id: 1900447892
+rx_time: 1755210953
+rx_snr: 3.75
+hop_limit: 3
+rx_rssi: -103
+hop_start: 5
+relay_node: 24
+
+
+8/14/25 4:35:58 PM [Packet]
+from: 3787736103 (!e1c44427)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!e1c44427\022\fHome Base 88\032\004TRCH\"\006\344\320\341\304D\'(\tB \";r\237\301\327M\201\302\371.\344z\031w\222a0\343\305un\v\366vJ\324\375\205\274\263.H\000"
+  request_id: 3340364029
+  bitfield: 0
+}
+id: 954545786
+rx_time: 1755210949
+rx_snr: -5.75
+hop_limit: 1
+rx_rssi: -116
+hop_start: 3
+relay_node: 60
+
+
+8/14/25 4:35:45 PM [Packet]
+from: 2925622036 (!ae617314)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!ae617314\022\017Meshtastic 7314\032\0047314\"\006\230=\256as\024(QB !\237\375{xu\v\362\247k\3737\267\001\267-\264L\343]\243\356\340\205\261SV\364x\376\207\031"
+  want_response: true
+  bitfield: 2
+}
+id: 3340364029
+rx_time: 1755210936
+rx_snr: -10.75
+hop_limit: 1
+rx_rssi: -122
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:35:27 PM [Packet]
+from: 2939562793 (!af362b29)
+to: 4222537374 (!fbaece9e)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!af362b29\022\foperator23-b\032\004o23b\"\006\302\005\2576+)(\t8\001"
+  want_response: true
+}
+id: 3578855735
+rx_time: 1755210918
+rx_snr: -2.75
+rx_rssi: -113
+hop_start: 3
+next_hop: 44
+relay_node: 57
+
+
+8/14/25 4:35:19 PM [Packet]
+from: 4222537374 (!fbaece9e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000d\300\030\357\f%\202d\236h(\002X\216\001x\000\200\001\240\363\264\017\230\001\t\270\001\r"
+  bitfield: 1
+}
+id: 1357878339
+rx_time: 1755210911
+rx_snr: 4.0
+hop_limit: 2
+rx_rssi: -103
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:35:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\224d\236h\022\024\be\025\215\227\206@\035j\003\356A%\217/\203?(\225\r"
+}
+id: 2869642907
+rx_time: 1755210900
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:35:04 PM [Packet]
+from: 3812347428 (!e33bce24)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!e33bce24\022\017Meshtastic ce24\032\004ce24\"\006\250B\343;\316$(\004B \253g\3307\2138\v\030nY\2436\223\231\277\177c\373c\177\024\033\256\033\200\311\265]^\364\206WH\000"
+  bitfield: 0
+}
+id: 2779148871
+rx_time: 1755210894
+rx_snr: 3.75
+hop_limit: 1
+rx_rssi: -103
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:34:47 PM [Packet]
+from: 2939562793 (!af362b29)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\t\370 \000\022\026\bX\025L7\201@\035\211\210\344@%|\206}>(\212\361\256\017"
+}
+id: 2934487349
+rx_time: 1755210878
+rx_snr: -19.0
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:34:42 PM [Packet]
+from: 4223123684 (!fbb7c0e4)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\370c\236h\022\024\be\025\024\256\203@\035\202N\373@%<L\261?(\235m"
+  bitfield: 0
+}
+id: 2848512991
+rx_time: 1755210873
+rx_snr: -3.25
+rx_rssi: -113
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 4:34:21 PM [Packet]
+from: 3092005958 (!b84c4446)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!b84c4446\022\022ThompsonRidge_4446\032\003Tom\"\006\374\250\270LDF(\tB \030\331\236\212\025`q\2474X\340W\243\377ow]\375Vy\260\002\330\0264c\r!\004\310\206.H\000"
+  request_id: 1709083758
+  bitfield: 0
+}
+id: 2151898928
+rx_time: 1755210853
+rx_snr: -11.75
+rx_rssi: -123
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:34:10 PM [Packet]
+from: 374876557 (!1658298d)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!1658298d\022\rABQ2GLOW \360\237\223\265\032\004A2GL\"\006\360\252\026X)\215(\tB \3211\323\2620\304\375\361C\263wV_\321\tk\257\366g\313\373\026\251\276g\324\314\366\202\243S\017"
+  request_id: 1709083758
+  bitfield: 0
+}
+id: 4293785775
+rx_time: 1755210841
+rx_snr: -11.75
+hop_limit: 3
+rx_rssi: -123
+hop_start: 5
+relay_node: 44
+
+
+8/14/25 4:34:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rXd\236h\022\024\be\025!\260\206@\035u\332\347A%kO\177?(\331\f"
+}
+id: 2554249882
+rx_time: 1755210840
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:34:05 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\340s\277\024\025\037\363\\\300\030\362\v%Bd\236h(\002=\004d\236hP/`\224\002x\002\200\001\270\206\320\003\230\001\006\260\001\002\270\001 "
+  bitfield: 1
+}
+id: 3792314767
+rx_time: 1755210837
+rx_snr: -2.5
+rx_rssi: -113
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:34:01 PM [Packet]
+from: 3329739156 (!c677c994)
+to: 2925622036 (!ae617314)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!c677c994\022\023SierraLosPinos_c994\032\003SLP\"\006\371\r\306w\311\224(\t8\002B \335\2225`\277KB\270\016j)\246\273\367\363\253\212g6\312\206\v\023\317\342\207\315\270\274-P2H\001"
+  request_id: 1709083758
+  bitfield: 0
+}
+id: 975558534
+rx_time: 1755210832
+rx_snr: 3.5
+hop_limit: 4
+rx_rssi: -103
+hop_start: 5
+relay_node: 24
+
+
+8/14/25 4:33:56 PM [Packet]
+from: 1103005800 (!41be8868)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\364\024\025\000\000\204\300\030\311\r%?d\236h(\002X\303\003x\001\200\001\000\230\001\a\270\001\r"
+  bitfield: 0
+}
+id: 3739324777
+rx_time: 1755210827
+rx_snr: -10.25
+rx_rssi: -122
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:33:33 PM [Packet]
+from: 4222537374 (!fbaece9e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000d\300\030\337\r%cY\236h(\002Xax\000\200\001\350\242\304\020\230\001\f\270\001\r"
+  bitfield: 1
+}
+id: 3832775740
+rx_time: 1755210805
+rx_snr: 3.75
+hop_limit: 1
+rx_rssi: -103
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:33:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\034d\236h\022\024\be\025\360\247\206@\035\223_\315A%kO\177?(\235\f"
+}
+id: 2893822617
+rx_time: 1755210780
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:32:40 PM [Packet]
+from: 1130012216 (!435a9e38)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\354\024\025\000\000|\300\030\320\f%\360c\236h(\002X\323\001x\002\200\001\000\230\001\a\270\001\r"
+  bitfield: 0
+}
+id: 3494682321
+rx_time: 1755210751
+rx_snr: 3.75
+rx_rssi: -103
+hop_start: 6
+relay_node: 24
+
+
+8/14/25 4:32:10 PM [Packet]
+from: 318519515 (!12fc38db)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\324\024\025\000\000\204\300\030\320\r%\t\\\236h(\002X^x\000\200\001\320\327\320\a\230\001\f\270\001\r"
+  bitfield: 0
+}
+id: 3647066437
+rx_time: 1755210721
+rx_snr: -19.25
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:32:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\340c\236h\022\024\be\025\276\237\206@\035\205\353\350A%\006\356z?(\341\v"
+}
+id: 1608145560
+rx_time: 1755210720
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:31:36 PM [Packet]
+from: 1183264611 (!46872f63)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\372\024\025\000\000b\300\030\366\f%\267c\236h(\001\230\001\f\270\001\016"
+  bitfield: 1
+}
+id: 469581597
+rx_time: 1755210687
+rx_snr: 2.5
+hop_limit: 1
+rx_rssi: -107
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:31:34 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\rn^\277\024\025\256\374\\\300\030\215\f%\267c\236h(\002=\270c\236hP/`\221\003x\005\200\001\310\276\346\f\230\001\004\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 505322995
+rx_time: 1755210685
+rx_snr: -10.5
+hop_limit: 2
+rx_rssi: -121
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:31:32 PM [Packet]
+from: 3127312892 (!ba6701fc)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000d\300\030\276\r%\347`\236h(\003x\000\200\001\306\002\270\001\r"
+  bitfield: 0
+}
+id: 1146550398
+rx_time: 1755210683
+rx_snr: 2.0
+hop_limit: 5
+rx_rssi: -108
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:31:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\244c\236h\022\024\be\025\276\237\206@\035\214%\027B%@\017q?(\245\v"
+}
+id: 24543895
+rx_time: 1755210660
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:30:51 PM [Packet]
+from: 640262788 (!2629a284)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\222`\236h\022\025\bd\025\f\002\207@\035\000\000\000\000%\035\355\226=(\367\312\a"
+  bitfield: 1
+}
+id: 3208826301
+rx_time: 1755210642
+rx_snr: 3.0
+hop_limit: 1
+rx_rssi: -108
+hop_start: 5
+relay_node: 57
+
+
+8/14/25 4:30:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rhc\236h\022\024\be\025\215\227\206@\035&\277\024B%X\200l?(\351\n"
+}
+id: 1229276822
+rx_time: 1755210600
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:29:24 PM [Packet]
+from: 2930698814 (!aeaeea3e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!aeaeea3e\022\021Trout Sky Solaris\032\004TRCH\"\006\345\345\256\256\352>(\tB |\024>v*\201;*Kg\371\267<p\260\324\t\326F[\0317\0031\372\376\330+W\354\225\bH\000"
+  bitfield: 0
+}
+id: 4229356133
+rx_time: 1755210554
+rx_snr: 4.25
+hop_limit: 5
+rx_rssi: -102
+hop_start: 6
+relay_node: 24
+
+
+8/14/25 4:29:10 PM [Packet]
+from: 1183264611 (!46872f63)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!46872f63\022\bZapDelta\032\004ZapD\"\006\366WF\207/c(EB l-\273QU\321:\265\325\347.\f\242\362\304\262\226e\221\273\324S\265\376\2739\323\03655\250-H\000"
+  bitfield: 1
+}
+id: 1944659740
+rx_time: 1755210541
+rx_snr: -11.5
+hop_limit: 5
+rx_rssi: -123
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:29:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r,c\236h\022\024\be\025\276\237\206@\035\320i\330A%/\267g?(\255\n"
+}
+id: 1163953813
+rx_time: 1755210540
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:28:50 PM [Packet]
+from: 1129891060 (!4358c4f4)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\213\240\b\025\025\004\270v\300\030\206\f%\347\371\270\\X\215\001\230\001\v\270\001 "
+}
+id: 400347098
+rx_time: 1755210522
+rx_snr: -19.5
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:28:47 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\345o\277\024\025\352\353\\\300\030\307\v%\023c\236h(\002=\324b\236hP/`\250\002x\005\200\001\270\206\320\003\230\001\006\260\001\002\270\001 "
+  bitfield: 1
+}
+id: 1860191624
+rx_time: 1755210519
+rx_snr: -11.5
+hop_limit: 3
+rx_rssi: -122
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:28:36 PM [Packet]
+from: 1129891060 (!4358c4f4)
+to: 2697670588 (!a0cb2fbc)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!4358c4f4\022\006SkyCap\032\003Sky\"\006H\312CX\304\364(A"
+  want_response: true
+}
+id: 3744272345
+rx_time: 1755210507
+rx_snr: 4.0
+rx_rssi: -103
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:28:22 PM [Packet]
+from: 2224774976 (!849b5f40)
+to: 2697670588 (!a0cb2fbc)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!849b5f40\022\aLosMesh\032\002V3\"\006\260\201\204\233_@(+B \3512i9\256\247\355\231a\267OeN\364yz\0346j{\223\255\302\004w\250e\360\333\313\3256"
+  want_response: true
+}
+id: 2099654831
+rx_time: 1755210492
+rx_snr: -12.25
+rx_rssi: -121
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:28:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\360b\236h\022\024\be\025!\260\206@\035=\n\006B%,@^?(\361\t"
+}
+id: 855895700
+rx_time: 1755210480
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:27:40 PM [Packet]
+from: 2697670588 (!a0cb2fbc)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\317b\236h\022\025\b\\\025\027\331\202@\035\226\374\006A%IS @(\233\306\005"
+  bitfield: 0
+}
+id: 2966222807
+rx_time: 1755210452
+rx_snr: 3.25
+rx_rssi: -103
+hop_start: 6
+relay_node: 24
+
+
+8/14/25 4:27:09 PM [Packet]
+from: 2224688312 (!849a0cb8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\237\021%\263b\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 1384989826
+rx_time: 1755210420
+rx_snr: 3.5
+hop_limit: 2
+rx_rssi: -102
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:27:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\264b\236h\022\024\be\025\264\310\206@\035\247\r\207A%\'\236M?(\265\t"
+}
+id: 3263370898
+rx_time: 1755210420
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:26:51 PM [Packet]
+from: 4201581325 (!fa6f0b0d)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000D\025\025\000\000\334\300\030\251\020%\242b\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 1723101003
+rx_time: 1755210403
+rx_snr: 3.25
+hop_limit: 4
+rx_rssi: -103
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:26:40 PM [Packet]
+from: 1854656228 (!6e8bcee4)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!6e8bcee4\022\023WCF-Edgewood-Router\032\004WFER\"\006\323\231n\213\316\344(\t8\vB \242[\322D\330\331\331J\"\225\232\247\206\021\245\006\2640\215\303\323\256\263\035T\256D\264\3074\030B"
+  bitfield: 0
+}
+id: 1403049684
+rx_time: 1755210390
+rx_snr: 3.0
+rx_rssi: -104
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:26:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rxb\236h\022\024\be\025!\260\206@\035\016t\327A%?\017I?(\371\b"
+}
+id: 4139609745
+rx_time: 1755210360
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:26:00 PM [Packet]
+from: 3140075880 (!bb29c168)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\364\024\025\000\000|\300\030\373\f%pb\236h(\002X\256\001x\000\200\001\370\253\363\b\230\001\006\270\001\r"
+  bitfield: 1
+}
+id: 1526642978
+rx_time: 1755210351
+rx_snr: 3.5
+hop_limit: 1
+rx_rssi: -103
+hop_start: 5
+relay_node: 24
+
+
+8/14/25 4:25:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r<b\236h\022\024\be\025R\270\206@\035\217\302\271A%\006\356:?(\275\b"
+}
+id: 1512704656
+rx_time: 1755210300
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:24:40 PM [Packet]
+from: 2853661009 (!aa176951)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r,b\236h\032\017\r\315\314\005B\025\000F\275A\035\022\017DD"
+  bitfield: 0
+}
+id: 1177380690
+rx_time: 1755210271
+rx_snr: -7.0
+hop_limit: 1
+rx_rssi: -116
+hop_start: 3
+relay_node: 60
+
+
+8/14/25 4:24:24 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\rrx\277\024\025y\356\\\300\030\211\f%\026`\236h(\002=\027`\236hP/`\264\003x\006\200\001\350\200\227\a\230\001\004\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 3198996952
+rx_time: 1755210256
+rx_snr: 1.0
+rx_rssi: -108
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:24:14 PM [Packet]
+from: 3972235291 (!ecc3801b)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!ecc3801b\022\fLaCueva_801b\032\004Cuev\"\006\307\275\354\303\200\033(\tB \224\375s\272\254@\262\035\376(\214\356sT\347\320\332>\252\214\311\n\206\004t&\307qE\204\265fH\001"
+  bitfield: 0
+}
+id: 3762332690
+rx_time: 1755210244
+rx_snr: 3.5
+hop_limit: 5
+rx_rssi: -103
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:24:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\000b\236h2\'\b\201\b\025\265\201\257A\035\006\356*? $(\365\0020\0258&@*H\204\002P!X&`\364\272\vh\300\344\a"
+}
+id: 652854927
+rx_time: 1755210240
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:24:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\000b\236h\022\024\be\025!\260\206@\035\265\201\257A%\006\356*?(\201\b"
+}
+id: 2221867662
+rx_time: 1755210240
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:23:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\304a\236h\022\024\be\025\360\247\206@\035H\341\250A%\037_&?(\305\a"
+}
+id: 1043241613
+rx_time: 1755210180
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:22:51 PM [Packet]
+from: 3308656352 (!c53616e0)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\353\024\025\000\000\251\300\030\000%\263a\236h(\001x\000\200\001\000\270\001\017"
+  bitfield: 0
+}
+id: 809788814
+rx_time: 1755210163
+rx_snr: 3.25
+hop_limit: 5
+rx_rssi: -103
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:22:43 PM [Packet]
+from: 4145956944 (!f71e4850)
+to: 72227206 (!044e1986)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!f71e4850\022\004red1\032\004red1\"\0060\306\367\036HP(\004"
+  want_response: true
+}
+id: 2004769985
+rx_time: 1755210153
+rx_snr: 3.75
+rx_rssi: -102
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:22:31 PM [Packet]
+from: 72227206 (!044e1986)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\304\025\025\000\000\024\301\030\245\023%\241a\236h(\003x\000\200\001\000\270\001\r"
+  bitfield: 1
+}
+id: 625936405
+rx_time: 1755210143
+rx_snr: 5.0
+hop_limit: 1
+rx_rssi: -102
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:22:16 PM [Packet]
+from: 1000226604 (!3b9e3f2c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\374\024\025\000\000l\300\030\237\f%\217a\236h(\002X\247\001x\000\200\001\360\361\261\004\230\001\006\270\001\r"
+  bitfield: 0
+}
+id: 4241483680
+rx_time: 1755210127
+rx_snr: 3.25
+hop_limit: 4
+rx_rssi: -103
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:22:14 PM [Packet]
+from: 1732965037 (!674af2ad)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\211\334\367\024\025\234\270|\300\030\254\f%\204a\236h(\001x\000\200\001\000\270\001 "
+  bitfield: 1
+}
+id: 3049023539
+rx_time: 1755210126
+rx_snr: 4.25
+rx_rssi: -102
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:22:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\210a\236h\022\024\be\025\360\247\206@\035\366(\300A%R\222\031?(\211\a"
+}
+id: 3404968588
+rx_time: 1755210120
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:22:01 PM [Packet]
+from: 1000226604 (!3b9e3f2c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\374\024\025\000\000l\300\030\237\f%\342[\236h(\002X\247\001x\000\200\001\360\361\261\004\230\001\006\270\001\r"
+  bitfield: 0
+}
+id: 2029725599
+rx_time: 1755210113
+rx_snr: 3.25
+hop_limit: 2
+rx_rssi: -102
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:21:52 PM [Packet]
+from: 2962886519 (!b09a0f77)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\321[\236h\022\026\b]\025\333\371\202@\035\214%mA%6^p@(\270\361\307\001"
+  bitfield: 0
+}
+id: 1516618533
+rx_time: 1755210103
+rx_snr: -19.25
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:21:20 PM [Packet]
+from: 2956785920 (!b03cf900)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\274\021%H[\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 1665912012
+rx_time: 1755210071
+rx_snr: 5.25
+hop_limit: 1
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:21:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rLa\236h\022\024\be\025R\270\206@\035\270\036\375A%)\311\024?(\315\006"
+}
+id: 2089940619
+rx_time: 1755210060
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:21:04 PM [Packet]
+from: 1854656228 (!6e8bcee4)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r_a^h\022\026\bZ\025-\262\201@\035\226\374RA%\213\263\210@(\223\234\313\003"
+  bitfield: 0
+}
+id: 2997114579
+rx_time: 1755210056
+rx_snr: -12.75
+hop_limit: 2
+rx_rssi: -122
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:20:55 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r9_\277\024\025\367\377\\\300\030\364\v%5a\236h(\002=6a\236hP/`\367\001x\003\200\001\340\350\221\a\230\001\004\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 1379850720
+rx_time: 1755210046
+rx_snr: 4.0
+hop_limit: 1
+rx_rssi: -104
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:20:44 PM [Packet]
+from: 2733226028 (!a2e9b82c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r2a\236h\022\026\be\025\000\000\000\000\035\000\000\235A%\337\274\271@(\344\377\346\001"
+  bitfield: 1
+}
+id: 3215712633
+rx_time: 1755210036
+rx_snr: -11.25
+hop_limit: 3
+rx_rssi: -122
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:20:10 PM [Packet]
+from: 2492665865 (!94931009)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\354\024\025\000\000t\300\030\251\f(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 1235692464
+rx_time: 1755210002
+rx_snr: 4.0
+hop_limit: 1
+rx_rssi: -103
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:20:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\020a\236h\022\024\be\025\203\300\206@\035\240\323\276A%Z\321\000?(\221\006"
+}
+id: 691308169
+rx_time: 1755210000
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:19:48 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\rQm\277\024\025b\363\\\300\030\270\f%6T\236h(\002=6T\236hP/`\267\001x\000\200\001\350\227\277\005\230\001\005\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 4001598792
+rx_time: 1755209979
+rx_snr: -18.5
+rx_rssi: -128
+hop_start: 7
+relay_node: 223
+
+
+8/14/25 4:19:44 PM [Packet]
+from: 3812346704 (!e33bcb50)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\344\024\025\000\000\264\300\030\234\020%\353`\236h(\002X\304\002x\006\200\001\310\335\257\r\230\001\006\270\001\r"
+  bitfield: 0
+}
+id: 4197606185
+rx_time: 1755209976
+rx_snr: 3.75
+rx_rssi: -103
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:19:22 PM [Packet]
+from: 3127312892 (!ba6701fc)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000d\300\030\276\r%\347`\236h(\003x\000\200\001\306\002\270\001\r"
+  bitfield: 0
+}
+id: 1146550398
+rx_time: 1755209953
+rx_snr: -10.75
+hop_limit: 6
+rx_rssi: -122
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:19:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\324`\236h\022\024\be\025R\270\206@\035\\\217\276A%A:\360>(\325\005"
+}
+id: 1231131272
+rx_time: 1755209940
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:18:55 PM [Packet]
+from: 1130082140 (!435baf5c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\003\025\025\000\000a\300\030\255\r%\330`\236h(\002X\305\001x\000\200\001\320\362\312\006\230\001\a\270\001\017"
+  bitfield: 1
+}
+id: 3607576908
+rx_time: 1755209926
+rx_snr: -10.75
+hop_limit: 5
+rx_rssi: -122
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:18:51 PM [Packet]
+from: 3663935668 (!da6338b4)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r|`\236h\022\025\bT\025\246\233\200@\035\362\213\222A%\360`b@(\371\377l"
+}
+id: 1159130264
+rx_time: 1755209922
+rx_snr: -11.25
+rx_rssi: -122
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:18:34 PM [Packet]
+from: 640262788 (!2629a284)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\263`\236h\032\n\r)\\\'B\025\n\327\215A"
+  bitfield: 1
+}
+id: 1935556030
+rx_time: 1755209905
+rx_snr: 4.0
+rx_rssi: -102
+hop_start: 5
+relay_node: 24
+
+
+8/14/25 4:18:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\230`\236h\022\024\be\025\360\247\206@\035K~\265A%A:\360>(\231\005"
+}
+id: 1445114503
+rx_time: 1755209880
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:18:04 PM [Packet]
+from: 640262788 (!2629a284)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\222`\236h\022\025\bd\025\f\002\207@\035\000\000\000\000%\035\355\226=(\367\312\a"
+  bitfield: 1
+}
+id: 3208826301
+rx_time: 1755209876
+rx_snr: -20.0
+hop_limit: 1
+rx_rssi: -128
+hop_start: 5
+relay_node: 223
+
+
+8/14/25 4:17:11 PM [Packet]
+from: 2733364712 (!a2ebd5e8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000<\025\025\000\000\314\300\030\210\016%``\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 1
+}
+id: 2793786099
+rx_time: 1755209823
+rx_snr: -11.75
+hop_limit: 5
+rx_rssi: -123
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:17:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\\`\236h\022\024\be\025\360\247\206@\035DD\263A%G\002\336>(\335\004"
+}
+id: 1901859462
+rx_time: 1755209820
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:17:01 PM [Packet]
+from: 1328341310 (!4f2ce13e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\354\024\025\000\000\254\300\030\244\020%M`\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 3793807682
+rx_time: 1755209812
+rx_snr: -11.75
+rx_rssi: -123
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:16:48 PM [Packet]
+from: 3127312892 (!ba6701fc)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!ba6701fc\022\037BBS Mesh hosted by bajotumn.com\032\004BBS1\"\006\020 \272g\001\374(+B \246\344\277\231\r\005\222\347O\213D\'9\347\360\340[l\347W\323)\020s\347\241\204\000d\205\274$H\000"
+}
+id: 1760816250
+rx_time: 1755209799
+rx_snr: -3.75
+rx_rssi: -115
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:16:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r `\236h\022\024\be\025!\260\206@\035\253\252\327A%K\312\313>(\241\004"
+}
+id: 562939525
+rx_time: 1755209760
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:15:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\344_\236h\022\024\be\025\360\247\206@\0350\226\315A%K\312\313>(\345\003"
+}
+id: 1005647492
+rx_time: 1755209700
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:15:02 PM [Packet]
+from: 3899763042 (!e871a962)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\020\347\024\025\000\360s\300\030\300\f(\001x\000\200\001\000\270\001\023"
+  bitfield: 0
+}
+id: 2986948763
+rx_time: 1755209694
+rx_snr: 5.5
+rx_rssi: -102
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:14:33 PM [Packet]
+from: 2853661009 (!aa176951)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\315_\236h\022\025\be\025%\006\225@\035\332@\327?%\025\324,=(\252\266s"
+  bitfield: 0
+}
+id: 1617599313
+rx_time: 1755209664
+rx_snr: -7.75
+hop_limit: 1
+rx_rssi: -118
+hop_start: 3
+relay_node: 60
+
+
+8/14/25 4:14:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\250_\236h\022\024\be\025R\270\206@\035\345\027\317A%Q\222\271>(\251\003"
+}
+id: 11734659
+rx_time: 1755209640
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:13:58 PM [Packet]
+from: 1128041424 (!433c8bd0)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\354\024\025\000\000l\300\030\350\v%\232_\236h(\003x\000\200\001\000\270\001\r"
+}
+id: 3381418104
+rx_time: 1755209629
+rx_snr: -19.0
+hop_limit: 1
+rx_rssi: -128
+hop_start: 5
+relay_node: 223
+
+
+8/14/25 4:13:52 PM [Packet]
+from: 4059234021 (!f1f2fee5)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!f1f2fee5\022\017Meshtastic fee5\032\004fee5\"\006\317\024\361\362\376\345(\aB P\006\331\226|\244\"\r\b\216R\227f\202\374\312\374\307\324d\004Pf\027\231m\006\316\307\237K\030"
+  request_id: 197668482
+  bitfield: 0
+}
+id: 854842878
+rx_time: 1755209624
+rx_snr: 6.0
+hop_limit: 2
+rx_rssi: -21
+hop_start: 2
+
+
+8/14/25 4:13:46 PM [Packet]
+from: 4059234021 (!f1f2fee5)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\221\021%\232_\236h(\002X\323\001x\000\200\001\000\230\001\005\270\001\r"
+  bitfield: 0
+}
+id: 1163605501
+rx_time: 1755209617
+rx_snr: 6.25
+hop_limit: 3
+rx_rssi: -21
+hop_start: 3
+
+
+8/14/25 4:13:14 PM [Packet]
+from: 1732965037 (!674af2ad)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!674af2ad\022\034W7FED Portduino link to SAND\032\004FEDL\"\006,\317gJ\362\255(%8\001B \"\3665J)\027\342\256\333\022\177]\342\276\234`0g1\206\226\371\"\025PU<\216\342\341_\f"
+  bitfield: 1
+}
+id: 1655237682
+rx_time: 1755209584
+rx_snr: -12.25
+hop_limit: 2
+rx_rssi: -123
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:13:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rl_\236h\022\024\be\025\360\247\206@\035\253\252\266A%\257L\223>(\355\002"
+}
+id: 1060058753
+rx_time: 1755209580
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:12:42 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\324p\277\024\025\206\362\\\300\030\351\v%N_\236h(\002=O_\236hP/`\322\001x\001\200\001\270\206\320\003\230\001\005\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 3496726904
+rx_time: 1755209553
+rx_snr: -19.5
+hop_limit: 1
+rx_rssi: -128
+hop_start: 7
+relay_node: 223
+
+
+8/14/25 4:12:24 PM [Packet]
+from: 4059234021 (!f1f2fee5)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\214\021%H_\236h(\002X\357\001x1\200\001\370\203\271\004\230\001\004\270\001\r"
+  bitfield: 0
+}
+id: 520159740
+rx_time: 1755209536
+rx_snr: 6.25
+hop_limit: 3
+rx_rssi: -21
+hop_start: 3
+
+
+8/14/25 4:12:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r0_\236h\022\024\be\025R\270\206@\035\270\036\377A%?5~>(\261\002"
+}
+id: 2086922880
+rx_time: 1755209520
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:11:47 PM [Packet]
+from: 4222537374 (!fbaece9e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000d\300\030\337\r%\032_\236h(\002Xax\000\200\001\350\242\304\020\230\001\f\270\001\r"
+  bitfield: 1
+}
+id: 3449019455
+rx_time: 1755209498
+rx_snr: 5.25
+hop_limit: 3
+rx_rssi: -102
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:11:37 PM [Packet]
+from: 4222537374 (!fbaece9e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000d\300\030\337\r%cY\236h(\002Xax\000\200\001\350\242\304\020\230\001\f\270\001\r"
+  bitfield: 1
+}
+id: 3832775740
+rx_time: 1755209489
+rx_snr: 3.75
+hop_limit: 3
+rx_rssi: -103
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:11:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\364^\236h\022\024\be\025R\270\206@\035\253\252\005B%\355\351l>(\365\001"
+}
+id: 3695165055
+rx_time: 1755209460
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:11:08 PM [Packet]
+from: 2127817056 (!7ed3e960)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\204\350\017\000\022\025\be\025\360\247\202@\035R\270\227A%\230\224\005@(\204\321?"
+  bitfield: 0
+}
+id: 1143056465
+rx_time: 1755209459
+rx_snr: -20.25
+hop_limit: 1
+rx_rssi: -128
+hop_start: 5
+relay_node: 223
+
+
+8/14/25 4:10:50 PM [Packet]
+from: 4202718812 (!fa80665c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!fa80665c\022\tCT-Base 1\032\004CTB1\"\006\364\022\372\200f\\(+B \344\347\303\0029\234\032F\300\212\204Ti\257\034\335\263\001\302W\305?{\300\230\205\362\"\030\027\232CH\000"
+  bitfield: 1
+}
+id: 3878791543
+rx_time: 1755209440
+rx_snr: -11.75
+hop_limit: 4
+rx_rssi: -122
+hop_start: 5
+relay_node: 44
+
+
+8/14/25 4:10:20 PM [Packet]
+from: 2732898136 (!a2e4b758)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\310^\236h\032\017\r\244p\027B\025\000\262\250A\035\373SQD"
+  bitfield: 1
+}
+id: 3491771626
+rx_time: 1755209411
+rx_snr: -12.0
+hop_limit: 2
+rx_rssi: -123
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:10:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\270^\236h\022\024\be\025R\270\206@\035\371\305\276A%\375bI>(\271\001"
+}
+id: 2132825726
+rx_time: 1755209400
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:09:39 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r#k\277\024\025\222\363\\\300\030\355\v%\232^\236h(\002=k^\236hP/`\217\001x\003\200\001\270\206\320\003\230\001\006\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 877511029
+rx_time: 1755209370
+rx_snr: -12.0
+hop_limit: 3
+rx_rssi: -123
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 4:09:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r|^\236h2$\b}\025\205\353\355A\035\217\234\020> \b(%0\0018\023@\027H\025P\aX\005`\364\272\vh\240\365\a"
+}
+id: 646198909
+rx_time: 1755209340
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:09:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r|^\236h\022\023\be\025!\260\206@\035\205\353\355A%\217\234\020>(}"
+}
+id: 884203132
+rx_time: 1755209340
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:09:02 PM [Packet]
+from: 474580504 (!1c498618)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!1c498618\022\bJFB Base\032\002JB\"\006\020\006\034I\206\030(\004"
+  want_response: true
+}
+id: 3348742873
+rx_time: 1755209333
+rx_snr: -18.75
+hop_limit: 1
+rx_rssi: -128
+hop_start: 3
+relay_node: 223
+
+
+8/14/25 4:08:44 PM [Packet]
+from: 1129932596 (!43596734)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!43596734\022\bAncients\032\004Anct\"\006H\312CYg4(+B IK\352\003Pk\371\371(8 \356\274\321\200]d\343O{\203\020`\206\307\357\001B\262\322\217;H\000"
+  want_response: true
+  bitfield: 2
+}
+id: 2245132800
+rx_time: 1755209316
+rx_snr: 3.5
+rx_rssi: -102
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:08:29 PM [Packet]
+from: 2962886519 (!b09a0f77)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\374\024\025\000\000d\300\030\347\f%[^\236h(\002Xpx\000\200\001\000\230\001\f\270\001\r"
+  bitfield: 0
+}
+id: 1651746598
+rx_time: 1755209300
+rx_snr: -12.0
+hop_limit: 2
+rx_rssi: -122
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 4:08:28 PM [Packet]
+from: 3928300032 (!ea251a00)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!ea251a00\022\017Meshtastic 1a00\032\0041a00\"\006\350k\352%\032\000(\003B \016\"-\322\025@\347\206\336\004bp\335\271\"o\315\303:\276\322\201\2061~s\351\\8Wk-"
+  want_response: true
+  bitfield: 2
+}
+id: 2209712405
+rx_time: 1755209299
+rx_snr: 2.0
+rx_rssi: -108
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 4:08:08 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r?^\236h\022\023\bd\025\230n\206@\035\a:\221A%j\003\335=(A"
+  bitfield: 0
+}
+id: 255158907
+rx_time: 1755209279
+hop_limit: 3
+priority: BACKGROUND
+hop_start: 3
+relay_node: 140
+
+
+8/14/25 4:08:03 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\254g\277\024\025\"\370\\\300\030\367\v%\345]\236h(\002=\346]\236hP/`\273\003x\001\200\001\220\214\346\017\230\001\004\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 2147859912
+rx_time: 1755209275
+rx_snr: -2.0
+hop_limit: 1
+rx_rssi: -112
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:07:50 PM [Packet]
+from: 3711455628 (!dd38518c) (!dd38518c)
+to: 3711455628
+decoded {
+  portnum: ROUTING_APP
+  payload: "\030\000"
+  request_id: 2082245613
+}
+id: 1052848762
+rx_time: 1755209262
+hop_limit: 3
+priority: ACK
+
+
+8/14/25 4:07:50 PM [Packet]
+from: 2797151289 (!a6b92439)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000v\025\025\000\000\226\300\030\255\033%.^\236h(\002X\311\002x\000\200\001\000\230\001\005\270\001\016"
+  bitfield: 0
+}
+id: 1274512736
+rx_time: 1755209262
+rx_snr: 6.25
+hop_limit: 5
+rx_rssi: -33
+hop_start: 7
+
+
+8/14/25 4:07:42 PM [Packet]
+from: 4059234021 (!f1f2fee5)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\221\021%\343]\236h(\002X\323\001x\000\200\001\000\230\001\005\270\001\r"
+  bitfield: 0
+}
+id: 2513124858
+rx_time: 1755209195
+rx_snr: -0.75
+hop_limit: 2
+rx_rssi: -111
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 4:07:42 PM [Packet]
+from: 2691974752 (!a0744660)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000D\025\025\000\000\324\300\030\245\020%\343]\236h(\002X\215\001x\000\200\001\000\230\001\b\270\001\r"
+  bitfield: 0
+}
+id: 4234483859
+rx_time: 1755209262
+rx_snr: -0.5
+hop_limit: 3
+rx_rssi: -111
+hop_start: 6
+relay_node: 57
+
+
+8/14/25 4:07:42 PM [Packet]
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: ADMIN_APP
+  payload: "\335\0 (!00000000)02.^\236h\252\006\b\017/\362G:\263\225\005"
+}
+id: 2082245613
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 4:07:41 PM [ConfigComplete]
+10
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 4059234021 (!f1f2fee5)
+position {
+  latitude_i: 358875136
+  longitude_i: -1062993920
+  altitude: 2193
+  time: 1755209187
+  location_source: LOC_INTERNAL
+}
+snr: -0.75
+last_heard: 1755209195
+hops_away: 1
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 2691974752 (!a0744660)
+position {
+  latitude_i: 356777984
+  longitude_i: -1059848192
+  altitude: 2085
+  time: 1755209187
+  location_source: LOC_INTERNAL
+}
+snr: -0.5
+hops_away: 3
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 2797151289 (!a6b92439)
+user {
+  id: "!a6b92439"
+  long_name: "JemezNE_2439"
+  short_name: "JmNE"
+  macaddr: "\364\a\246\271$9"
+  hw_model: RAK4631
+  role: ROUTER_LATE
+  public_key: "\277Z\3702\226\210\257\344\210\276Ki\254\210\206\355\004\250\f\2237;/\t\323\262]\\\226\035\244j"
+  is_unmessagable: true
+}
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 748681242 (!2c9ff81a)
+user {
+  id: "!2c9ff81a"
+  long_name: "operator23-r"
+  short_name: "o23r"
+  macaddr: "\372\334,\237\370\032"
+  hw_model: RAK4631
+}
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 3663935668 (!da6338b4)
+user {
+  id: "!da6338b4"
+  long_name: "Meshtastic 38b4"
+  short_name: "38b4"
+  macaddr: "4\267\332c8\264"
+  hw_model: HELTEC_V3
+}
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 2224694508 (!849a24ec)
+user {
+  id: "!849a24ec"
+  long_name: "Nat_Mobile_1"
+  short_name: "NtM1"
+  macaddr: "\260\201\204\232$\354"
+  hw_model: HELTEC_V3
+  public_key: "\371P\263\031\240\346G\377&\030\207\252\335)\264.,gC.\355\254^VN\2266\316i\222\366l"
+}
+snr: 5.0
+last_heard: 1755208615
+hops_away: 2
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 1000226604 (!3b9e3f2c)
+user {
+  id: "!3b9e3f2c"
+  long_name: "YIF Base 1"
+  short_name: "YIF1"
+  macaddr: "\350\272;\236?,"
+  hw_model: RAK4631
+  public_key: "\212\211cCO\027\231Qrd\225\332\352\224\374h{5\375\250\256\220=)\252T\177\255\316_0\\"
+}
+position {
+  latitude_i: 352059392
+  longitude_i: -1066663936
+  altitude: 1567
+  time: 1755208674
+  location_source: LOC_INTERNAL
+}
+snr: -0.5
+last_heard: 1755208691
+hops_away: 3
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 1595584020 (!5f1aae14)
+user {
+  id: "!5f1aae14"
+  long_name: "RMJ-Roaming0"
+  short_name: "RMJ"
+  macaddr: "\355\a_\032\256\024"
+  hw_model: HELTEC_MESH_NODE_T114
+  public_key: "b\371\323~\212\'p\a0\001 \354&e\016q\2568S\245\316V\252\252\024\270JPG\032+\032"
+}
+position {
+  latitude_i: 352583680
+  longitude_i: -1066663936
+  altitude: 1613
+  time: 1755208550
+  location_source: LOC_INTERNAL
+}
+snr: 5.0
+last_heard: 1755208563
+hops_away: 5
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 1128109372 (!433d953c)
+user {
+  id: "!433d953c"
+  long_name: "EkkoA-953c"
+  short_name: "EkoA"
+  macaddr: "H\312C=\225<"
+  hw_model: HELTEC_V3
+  public_key: ")\027Xz\302\360\222\017\323\353Q\224Y\337\001@:\256\247\332\314-4k\003\367\377\256\372\241\375u"
+}
+snr: -17.75
+last_heard: 1755208471
+hops_away: 2
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 1130082140 (!435baf5c)
+user {
+  id: "!435baf5c"
+  long_name: "BajotumnIT_Go1"
+  short_name: "\360\237\223\237"
+  macaddr: "H\312C[\257\\"
+  hw_model: LILYGO_TBEAM_S3_CORE
+  public_key: "w\030/\253@\332\274\307;\016\a\333\b\2727\343L\301dw\001\314\216G\307l\315\312\352S[V"
+  is_unmessagable: false
+}
+snr: -1.75
+last_heard: 1755208433
+hops_away: 6
+
+
+8/14/25 4:07:41 PM [NodeInfo]
+num: 614370215 (!249e8ba7)
+user {
+  id: "!249e8ba7"
+  long_name: "NI5V_Base"
+  short_name: "NI5V"
+  macaddr: "\360\267$\236\213\247"
+  hw_model: RAK4631
+  public_key: "\326\2410\201\335\347>bl-\315\255\252,\345IL\343\030\244\212Y\214\305Fv-e\341\0178:"
+  is_unmessagable: false
+}
+snr: 5.75
+last_heard: 1755208431
+hops_away: 3
+
+
+8/14/25 4:07:40 PM [NodeInfo]
+num: 4201581325 (!fa6f0b0d)
+user {
+  id: "!fa6f0b0d"
+  long_name: "scum1_base"
+  short_name: "scm1"
+  macaddr: "\354\241\372o\v\r"
+  hw_model: RAK4631
+  public_key: "\0345,\261\303\323\377p;\rW\351\224\231_b\b\350;\351\331:gt\316\304\217Y\034\3612a"
+}
+snr: 5.25
+last_heard: 1755208417
+hops_away: 2
+
+
+8/14/25 4:07:40 PM [NodeInfo]
+num: 3127312892 (!ba6701fc)
+user {
+  id: "!ba6701fc"
+  long_name: "BBS Mesh hosted by bajotumn.com"
+  short_name: "BBS1"
+  macaddr: "\020 \272g\001\374"
+  hw_model: HELTEC_V3
+  public_key: "\246\344\277\231\r\005\222\347O\213D\'9\347\360\340[l\347W\323)\020s\347\241\204\000d\205\274$"
+  is_unmessagable: false
+}
+snr: -5.75
+last_heard: 1755208314
+hops_away: 7
+
+
+8/14/25 4:07:40 PM [NodeInfo]
+num: 1129934056 (!43596ce8)
+user {
+  id: "!43596ce8"
+  long_name: "YIF Base 2"
+  short_name: "YIF2"
+  macaddr: "H\312CYl\350"
+  hw_model: HELTEC_V3
+}
+
+
+8/14/25 4:07:40 PM [NodeInfo]
+num: 1129714352 (!435612b0)
+user {
+  id: "!435612b0"
+  long_name: "KG5VBY-outdoor2"
+  short_name: "12b0"
+  macaddr: "H\312CV\022\260"
+  hw_model: HELTEC_WIRELESS_PAPER
+}
+snr: 5.0
+last_heard: 1755208276
+hops_away: 2
+
+
+8/14/25 4:07:40 PM [NodeInfo]
+num: 4222537374 (!fbaece9e)
+user {
+  id: "!fbaece9e"
+  long_name: "BajotumnIT_Truck"
+  short_name: "\360\237\233\273"
+  macaddr: "\316V\373\256\316\236"
+  hw_model: RAK4631
+  public_key: "4\262\\h\317\324<\270U(\"I\220#Un1y\253\272OPq\324O4C%\3755\321t"
+}
+position {
+  latitude_i: 352583680
+  longitude_i: -1067188224
+  altitude: 1738
+  time: 1755205547
+  location_source: LOC_INTERNAL
+}
+snr: 5.75
+last_heard: 1755209073
+hops_away: 7
+
+
+8/14/25 4:07:40 PM [NodeInfo]
+num: 1304564327 (!4dc21267)
+user {
+  id: "!4dc21267"
+  long_name: "Meshtastic 1267"
+  short_name: "1267"
+  macaddr: "\325\366M\302\022g"
+  hw_model: RAK4631
+  public_key: "D\026\000\017\351\005m\275\025\330hl\323T\306w\220n\003\266+2\227u\331\245\320\246\203\372\211\000"
+}
+snr: 6.25
+last_heard: 1755209128
+device_metrics {
+  battery_level: 101
+  voltage: 4.236
+  channel_utilization: 8.918333
+  air_util_tx: 0.027583333
+  uptime_seconds: 60
+}
+hops_away: 3
+
+
+8/14/25 4:07:40 PM [ModuleConfig PAXCOUNTER]
+paxcounter {
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig DETECTION_SENSOR]
+detection_sensor {
+  minimum_broadcast_secs: 45
+  detection_trigger_type: LOGIC_HIGH
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig AMBIENT_LIGHTING]
+ambient_lighting {
+  current: 10
+  red: 56
+  green: 81
+  blue: 140
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig NEIGHBOR_INFO]
+neighbor_info {
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig REMOTE_HARDWARE]
+remote_hardware {
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig AUDIO]
+audio {
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig CANNED_MESSAGE]
+canned_message {
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig TELEMETRY]
+telemetry {
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig RANGE_TEST]
+range_test {
+  save: true
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig STORE_FORWARD]
+store_forward {
+}
+
+
+8/14/25 4:07:40 PM [ModuleConfig EXTERNAL_NOTIFICATION]
+external_notification {
+  enabled: true
+  output_ms: 1000
+  output: 36
+  active: true
+  alert_message: true
+  nag_timeout: 60
+}
+
+
+8/14/25 4:07:39 PM [ModuleConfig SERIAL]
+serial {
+}
+
+
+8/14/25 4:07:39 PM [ModuleConfig MQTT]
+mqtt {
+  address: "mqtt.meshtastic.org"
+  username: "meshdev"
+  password: "large4cats"
+  encryption_enabled: true
+  root: "msh/US"
+}
+
+
+8/14/25 4:07:39 PM [Config DEVICE_UI]
+device_ui {
+}
+
+
+8/14/25 4:07:39 PM [Config SESSIONKEY]
+sessionkey {
+}
+
+
+8/14/25 4:07:39 PM [Config SECURITY]
+security {
+  public_key: "\t\022\206\271\220\254\033{\321\216\0332\361\221\306Q\005\311!\370*\3031\277>\246v2\227 ,?"
+  private_key: "\020XD\353!\020\300F\360J\216r\255%\306\002\223\341`\312\321\235V\255\261\311F\205\244\004\221C"
+  serial_enabled: true
+}
+
+
+8/14/25 4:07:39 PM [Config BLUETOOTH]
+bluetooth {
+  enabled: true
+  fixed_pin: 123456
+}
+
+
+8/14/25 4:07:39 PM [Config LORA]
+lora {
+  use_preset: true
+  region: US
+  hop_limit: 3
+  tx_enabled: true
+  tx_power: 30
+  sx126x_rx_boosted_gain: true
+}
+
+
+8/14/25 4:07:39 PM [Config DISPLAY]
+display {
+  screen_on_secs: 600
+  wake_on_tap_or_motion: true
+}
+
+
+8/14/25 4:07:39 PM [Config NETWORK]
+network {
+  ntp_server: "meshtastic.pool.ntp.org"
+}
+
+
+8/14/25 4:07:39 PM [Config POWER]
+power {
+  wait_bluetooth_secs: 60
+  sds_secs: 4294967295
+  ls_secs: 300
+  min_wake_secs: 10
+}
+
+
+8/14/25 4:07:39 PM [Config POSITION]
+position {
+  position_broadcast_secs: 900
+  position_broadcast_smart_enabled: true
+  gps_update_interval: 120
+  position_flags: 811
+  broadcast_smart_minimum_distance: 100
+  broadcast_smart_minimum_interval_secs: 30
+  gps_mode: ENABLED
+}
+
+
+8/14/25 4:07:39 PM [Config DEVICE]
+device {
+  node_info_broadcast_secs: 10800
+}
+
+
+8/14/25 4:07:39 PM [Channel]
+index: 7
+settings {
+}
+
+
+8/14/25 4:07:39 PM [Channel]
+index: 6
+settings {
+}
+
+
+8/14/25 4:07:39 PM [Channel]
+index: 5
+settings {
+}
+
+
+8/14/25 4:07:39 PM [Channel]
+index: 4
+settings {
+}
+
+
+8/14/25 4:07:38 PM [Channel]
+index: 3
+settings {
+}
+
+
+8/14/25 4:07:38 PM [Channel]
+index: 2
+settings {
+}
+
+
+8/14/25 4:07:38 PM [Channel]
+index: 1
+settings {
+}
+
+
+8/14/25 4:07:38 PM [Channel]
+settings {
+  psk: "\001"
+  module_settings {
+    position_precision: 13
+  }
+}
+role: PRIMARY
+
+
+8/14/25 4:07:38 PM [DeviceMetadata]
+firmware_version: "2.6.11.60ec05e"
+device_state_version: 24
+canShutdown: true
+hasBluetooth: true
+hasEthernet: true
+position_flags: 811
+hw_model: RAK4631
+hasPKC: true
+excluded_modules: 4480
+
+
+8/14/25 4:07:38 PM [NodeInfo]
+num: 3711455628 (!dd38518c)
+user {
+  id: "!dd38518c"
+  long_name: "Meshtastic 518c"
+  short_name: "518c"
+  macaddr: "\344y\3358Q\214"
+  hw_model: RAK4631
+  public_key: "\t\022\206\271\220\254\033{\321\216\0332\361\221\306Q\005\311!\370*\3031\277>\246v2\227 ,?"
+  is_unmessagable: false
+}
+position {
+  time: 1755209206
+}
+snr: -1.75
+last_heard: 1755209206
+device_metrics {
+  battery_level: 101
+  voltage: 4.211
+  channel_utilization: 20.083334
+  air_util_tx: 0.2522222
+  uptime_seconds: 905
+}
+is_favorite: true
+
+
+8/14/25 4:07:38 PM [MyNodeInfo]
+my_node_num: 3711455628 (!dd38518c)
+min_app_version: 30200
+device_id: "\307\334\234j\035\002\222\230\214Q8\335yd\027\336"
+pio_env: "rak4631"
+
+
+8/14/25 4:07:22 PM [Packet]
+to: 130 (!00000000)4564327
+decoded {
+  portnum: ADMIN_APP
+  payload: "\232\002\004*\002\020\017\252\006\b\017/\362G:\263\225\005"
+}
+id: 2082245612
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 4:07:16 PM [Packet]
+from: 1304564327 (!4dc21267) (!4dc21267)
+to: 1304564327
+decoded {
+  portnum: ADMIN_APP
+  payload: "B\006*\004\b\001\020\017\252\006\b\017/\362G:\263\225\005"
+  request_id: 2082245611
+}
+id: 2752029934
+rx_time: 1755209236
+hop_limit: 3
+priority: RELIABLE
+
+
+8/14/25 4:07:16 PM [Packet]
+to: 130 (!00000000)4564327
+decoded {
+  portnum: ADMIN_APP
+  payload: "8\004\252\006\bv\250\300\035\375\207z\\"
+  want_response: true
+}
+id: 2082245611
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 4:07:13 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 2956785920 (!b03cf900)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!dd38518c\022\017Meshtastic 518c\032\004518c\"\006\344y\3358Q\214(\tB \t\022\206\271\220\254\033{\321\216\0332\361\221\306Q\005\311!\370*\3031\277>\246v2\227 ,?H\000"
+  want_response: true
+  bitfield: 2
+}
+id: 3136319951
+rx_time: 1755207859
+rx_snr: 6.75
+hop_limit: 3
+rx_rssi: -23
+hop_start: 3
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 2956785920 (!b03cf900)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\274\021%H[\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 1665912012
+rx_time: 1755207856
+rx_snr: -13.25
+hop_limit: 6
+rx_rssi: -125
+hop_start: 7
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r<\000\000\000\022\023\be\025P\215\207@\035~\261\016A%q\366\341<(<"
+  bitfield: 0
+}
+id: 1210356456
+rx_time: 1755207817
+rx_snr: -17.75
+rx_rssi: -128
+hop_start: 3
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\001m\277\024\025\200\356\\\300\030\332\v%wX\236h(\002=HX\236hP/`\234\001x\001\200\001\350\227\277\005\230\001\006\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 1702238555
+rx_time: 1755209232
+rx_snr: 5.75
+rx_rssi: -31
+hop_start: 7
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 1128109372 (!433d953c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!433d953c\022\nEkkoA-953c\032\004EkoA\"\006H\312C=\225<(+B )\027Xz\302\360\222\017\323\353Q\224Y\337\001@:\256\247\332\314-4k\003\367\377\256\372\241\375u"
+  bitfield: 0
+}
+id: 1565455021
+rx_time: 1755209232
+rx_snr: 6.0
+rx_rssi: -31
+hop_start: 3
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 1183264611 (!46872f63)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rTX\236h\022\025\bG\025\205\353y@\035\214%OA%\352\2719@(\254\325\004"
+  bitfield: 1
+}
+id: 3468248848
+rx_time: 1755209232
+rx_snr: 4.75
+hop_limit: 2
+rx_rssi: -104
+hop_start: 7
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 2733364712 (!a2ebd5e8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000<\025\025\000\000\314\300\030\210\016%EX\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 1
+}
+id: 112368
+rx_time: 1755209232
+rx_snr: 5.0
+hop_limit: 4
+rx_rssi: -104
+hop_start: 7
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 1130082140 (!435baf5c)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!435baf5c\022\016BajotumnIT_Go1\032\004\360\237\223\237\"\006H\312C[\257\\(\fB w\030/\253@\332\274\307;\016\a\333\b\2727\343L\301dw\001\314\216G\307l\315\312\352S[VH\000"
+  want_response: true
+  bitfield: 3
+}
+id: 4156581143
+rx_time: 1755209232
+rx_snr: -5.5
+hop_limit: 1
+rx_rssi: -117
+hop_start: 7
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 614370215 (!249e8ba7)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!249e8ba7\022\tNI5V_Base\032\004NI5V\"\006\360\267$\236\213\247(\tB \326\2410\201\335\347>bl-\315\255\252,\345IL\343\030\244\212Y\214\305Fv-e\341\0178:H\000"
+  bitfield: 0
+}
+id: 2041883283
+rx_time: 1755209232
+rx_snr: 5.25
+rx_rssi: -105
+hop_start: 3
+
+
+8/14/25 4:07:12 PM [Packet]
+from: 4201581325 (!fa6f0b0d)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!fa6f0b0d\022\nscum1_base\032\004scm1\"\006\354\241\372o\v\r(\tB \0345,\261\303\323\377p;\rW\351\224\231_b\b\350;\351\331:gt\316\304\217Y\034\3612a"
+  bitfield: 0
+}
+id: 2443812682
+rx_time: 1755209232
+rx_snr: 4.25
+hop_limit: 5
+rx_rssi: -104
+hop_start: 7
+
+
+8/14/25 4:07:11 PM [Packet]
+from: 3127312892 (!ba6701fc)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!ba6701fc\022\037BBS Mesh hosted by bajotumn.com\032\004BBS1\"\006\020 \272g\001\374(+B \246\344\277\231\r\005\222\347O\213D\'9\347\360\340[l\347W\323)\020s\347\241\204\000d\205\274$H\000"
+  want_response: true
+  bitfield: 2
+}
+id: 97653855
+rx_time: 1755209231
+rx_snr: -4.0
+hop_limit: 1
+rx_rssi: -116
+hop_start: 7
+
+
+8/14/25 4:07:11 PM [Packet]
+from: 1129934056 (!43596ce8)
+to: 2224712816 (!849a6c70)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!43596ce8\022\nYIF Base 2\032\004YIF2\"\006H\312CYl\350(+"
+  want_response: true
+}
+id: 412038945
+rx_time: 1755209231
+rx_snr: -3.25
+hop_limit: 3
+rx_rssi: -115
+hop_start: 7
+
+
+8/14/25 4:07:11 PM [Packet]
+from: 2224712816 (!849a6c70)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rMZ\236h\022\026\be\025\246\233\210@\035\016tpA%$s\002@(\254\237\315\001"
+}
+id: 1165744946
+rx_time: 1755209231
+rx_snr: -0.75
+rx_rssi: -111
+hop_start: 3
+
+
+8/14/25 4:07:11 PM [Packet]
+from: 1129714352 (!435612b0)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!435612b0\022\017KG5VBY-outdoor2\032\00412b0\"\006H\312CV\022\260(1"
+  want_response: true
+}
+id: 1500669427
+rx_time: 1755209231
+rx_snr: -0.75
+hop_limit: 5
+rx_rssi: -111
+hop_start: 7
+
+
+8/14/25 4:07:11 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rGZ\236h\022\023\be\025\027\331\206@\035Q\270lA%\000\000\000\000(A"
+  bitfield: 0
+}
+id: 4080519625
+rx_time: 1755209231
+rx_snr: 6.5
+hop_limit: 3
+rx_rssi: -17
+hop_start: 3
+
+
+8/14/25 4:07:11 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r9\000\000\000\022\023\be\025\\\217\206@\035\372\305*A%\030\270\213=(9"
+  bitfield: 0
+}
+id: 720488630
+rx_time: 1755209231
+hop_limit: 3
+priority: BACKGROUND
+hop_start: 3
+
+
+8/14/25 4:07:11 PM [Packet]
+from: 2733226028 (!a2e9b82c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\vZ\236h\022\026\be\025\000\000\000\000\035\372\305\005B%8\373\276@(\276\361\346\001"
+  bitfield: 1
+}
+id: 3830288759
+rx_time: 1755209231
+rx_snr: 5.75
+rx_rssi: -29
+hop_start: 3
+
+
+8/14/25 4:07:11 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\301Y\236h\022\023\be\025\203\300\206@\035\211\210hA%\000\000\000\000(A"
+  bitfield: 0
+}
+id: 551197297
+rx_time: 1755209231
+rx_snr: -4.0
+hop_limit: 2
+rx_rssi: -114
+hop_start: 3
+
+
+8/14/25 4:07:09 PM [Packet]
+to: 130 (!00000000)4564327
+decoded {
+  portnum: ADMIN_APP
+  payload: "\335\002\r^\236h\252\006\bv\250\300\035\375\207z\\"
+}
+id: 2082245610
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 4:07:09 PM [ConfigComplete]
+9
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 4059234021 (!f1f2fee5)
+user {
+  id: "!f1f2fee5"
+  long_name: "Meshtastic fee5"
+  short_name: "fee5"
+  macaddr: "\317\024\361\362\376\345"
+  hw_model: T_ECHO
+  public_key: "P\006\331\226|\244\"\r\b\216R\227f\202\374\312\374\307\324d\004Pf\027\231m\006\316\307\237K\030"
+}
+position {
+  latitude_i: 358875136
+  longitude_i: -1062993920
+  altitude: 2193
+  time: 1755209187
+  location_source: LOC_INTERNAL
+}
+snr: 6.25
+last_heard: 1755208508
+hops_away: 0
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 2534342536 (!970eff88)
+snr: -0.25
+last_heard: 1755208507
+device_metrics {
+  battery_level: 101
+  voltage: 6.308
+  channel_utilization: 3.2266665
+  air_util_tx: 1.2356944
+  uptime_seconds: 458679
+}
+hops_away: 2
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 4125986714 (!f5ed8f9a)
+user {
+  id: "!f5ed8f9a"
+  long_name: "MCL, JLL NW ALBQ 8f9a"
+  short_name: "\360\237\217\260"
+  macaddr: "\341\327\365\355\217\232"
+  hw_model: HELTEC_MESH_NODE_T114
+  public_key: "\031J5\210\206\343\002\366\363\275\327=\272UnQ;m\271\210:\352c\204\232\002R0I^\352\'"
+}
+snr: -0.25
+last_heard: 1755208506
+hops_away: 4
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 2691974752 (!a0744660)
+position {
+  latitude_i: 356777984
+  longitude_i: -1059848192
+  altitude: 2085
+  time: 1755209187
+  location_source: LOC_INTERNAL
+}
+snr: -1.25
+last_heard: 1755208502
+hops_away: 2
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 2797151289 (!a6b92439)
+user {
+  id: "!a6b92439"
+  long_name: "JemezNE_2439"
+  short_name: "JmNE"
+  macaddr: "\364\a\246\271$9"
+  hw_model: RAK4631
+  role: ROUTER_LATE
+  public_key: "\277Z\3702\226\210\257\344\210\276Ki\254\210\206\355\004\250\f\2237;/\t\323\262]\\\226\035\244j"
+}
+snr: -6.5
+last_heard: 1755208463
+hops_away: 0
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 601295452 (!23d70a5c)
+position {
+  latitude_i: 351010816
+  longitude_i: -1065615360
+  time: 1755209084
+  location_source: LOC_INTERNAL
+}
+snr: -6.25
+last_heard: 1755208415
+hops_away: 5
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 4222537374 (!fbaece9e)
+user {
+  id: "!fbaece9e"
+  long_name: "BajotumnIT_Truck"
+  short_name: "\360\237\233\273"
+  macaddr: "\316V\373\256\316\236"
+  hw_model: RAK4631
+  public_key: "4\262\\h\317\324<\270U(\"I\220#Un1y\253\272OPq\324O4C%\3755\321t"
+}
+snr: -2.75
+last_heard: 1755208397
+hops_away: 7
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 175564688 (!0a76e790)
+snr: -4.0
+last_heard: 1755208378
+hops_away: 4
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 748681242 (!2c9ff81a)
+user {
+  id: "!2c9ff81a"
+  long_name: "operator23-r"
+  short_name: "o23r"
+  macaddr: "\372\334,\237\370\032"
+  hw_model: RAK4631
+}
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 4188323786 (!f9a4bfca)
+snr: -1.5
+last_heard: 1755208348
+device_metrics {
+  battery_level: 65
+  voltage: 3.846
+  channel_utilization: 16.381666
+  air_util_tx: 1.6919166
+  uptime_seconds: 372362
+}
+hops_away: 7
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 4066715781 (!f2652885)
+position {
+  latitude_i: 351010816
+  longitude_i: -1065615360
+  altitude: 1629
+  time: 1755208929
+  location_source: LOC_INTERNAL
+}
+snr: -3.5
+last_heard: 1755208262
+hops_away: 3
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 1618451972 (!60779e04)
+position {
+  latitude_i: 352059392
+  longitude_i: -1066663936
+  altitude: 1594
+  time: 1755202529
+  location_source: LOC_EXTERNAL
+}
+snr: -4.25
+last_heard: 1755208255
+hops_away: 3
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 27865817 (!01a932d9)
+position {
+  latitude_i: 353107968
+  longitude_i: -1064566784
+  altitude: 1732
+  time: 1755208803
+  location_source: LOC_INTERNAL
+}
+snr: -4.75
+last_heard: 1755208132
+hops_away: 3
+
+
+8/14/25 4:07:08 PM [NodeInfo]
+num: 3465985171 (!ce96bc93)
+position {
+  latitude_i: 351010816
+  longitude_i: -1065615360
+  altitude: 1667
+  time: 1755208784
+  location_source: LOC_MANUAL
+}
+snr: -2.5
+last_heard: 1755208124
+hops_away: 3
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 2224786680 (!849b8cf8)
+position {
+  latitude_i: 348088236
+  longitude_i: -1067648990
+  altitude: 1527
+  time: 1755209189
+  location_source: LOC_INTERNAL
+}
+snr: -4.25
+last_heard: 1755208525
+hops_away: 6
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 318519515 (!12fc38db)
+position {
+  latitude_i: 349437952
+  longitude_i: -1065091072
+  altitude: 1744
+  time: 1755208713
+  location_source: LOC_INTERNAL
+}
+snr: -4.75
+last_heard: 1755208041
+hops_away: 2
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 2732898136 (!a2e4b758)
+position {
+  latitude_i: 351782838
+  longitude_i: -1065560031
+  altitude: 1565
+  time: 1755208953
+  location_source: LOC_INTERNAL
+}
+snr: -5.5
+last_heard: 1755208285
+hops_away: 2
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 2985306289 (!b1f028b1)
+position {
+  latitude_i: 352976896
+  longitude_i: -1064697856
+  location_source: LOC_MANUAL
+}
+snr: 5.25
+last_heard: 1755208008
+hops_away: 1
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 3663935668 (!da6338b4)
+user {
+  id: "!da6338b4"
+  long_name: "Meshtastic 38b4"
+  short_name: "38b4"
+  macaddr: "4\267\332c8\264"
+  hw_model: HELTEC_V3
+}
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 1128168292 (!433e7b64)
+position {
+  latitude_i: 351535104
+  longitude_i: -1063518208
+  altitude: 2047
+  time: 1755205690
+  location_source: LOC_EXTERNAL
+}
+snr: 4.5
+last_heard: 1755207978
+hops_away: 3
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 2224694508 (!849a24ec)
+user {
+  id: "!849a24ec"
+  long_name: "Nat_Mobile_1"
+  short_name: "NtM1"
+  macaddr: "\260\201\204\232$\354"
+  hw_model: HELTEC_V3
+  public_key: "\371P\263\031\240\346G\377&\030\207\252\335)\264.,gC.\355\254^VN\2266\316i\222\366l"
+}
+snr: 4.5
+last_heard: 1755207938
+hops_away: 2
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 4202718812 (!fa80665c)
+snr: 4.75
+last_heard: 1755207906
+device_metrics {
+  battery_level: 101
+  voltage: 4.224
+  channel_utilization: 16.271667
+  air_util_tx: 2.5103333
+  uptime_seconds: 355566
+}
+hops_away: 4
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 1000226604 (!3b9e3f2c)
+user {
+  id: "!3b9e3f2c"
+  long_name: "YIF Base 1"
+  short_name: "YIF1"
+  macaddr: "\350\272;\236?,"
+  hw_model: RAK4631
+  public_key: "\212\211cCO\027\231Qrd\225\332\352\224\374h{5\375\250\256\220=)\252T\177\255\316_0\\"
+}
+snr: 3.5
+last_heard: 1755207902
+hops_away: 6
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 1595584020 (!5f1aae14)
+user {
+  id: "!5f1aae14"
+  long_name: "RMJ-Roaming0"
+  short_name: "RMJ"
+  macaddr: "\355\a_\032\256\024"
+  hw_model: HELTEC_MESH_NODE_T114
+  public_key: "b\371\323~\212\'p\a0\001 \354&e\016q\2568S\245\316V\252\252\024\270JPG\032+\032"
+}
+position {
+  latitude_i: 352583680
+  longitude_i: -1066663936
+  altitude: 1613
+  time: 1755208550
+  location_source: LOC_INTERNAL
+}
+snr: 4.5
+last_heard: 1755207886
+hops_away: 5
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 2956785920 (!b03cf900)
+position {
+  latitude_i: 358875136
+  longitude_i: -1062993920
+  altitude: 2236
+  time: 1755208520
+  location_source: LOC_MANUAL
+}
+snr: -13.25
+last_heard: 1755207856
+hops_away: 1
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 1819479468 (!6c730dac)
+position {
+  latitude_i: 348089646
+  longitude_i: -1067650035
+  altitude: 1507
+  time: 1755208886
+  location_source: LOC_INTERNAL
+}
+snr: -17.0
+last_heard: 1755208218
+hops_away: 4
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 1128109372 (!433d953c)
+user {
+  id: "!433d953c"
+  long_name: "EkkoA-953c"
+  short_name: "EkoA"
+  macaddr: "H\312C=\225<"
+  hw_model: HELTEC_V3
+  public_key: ")\027Xz\302\360\222\017\323\353Q\224Y\337\001@:\256\247\332\314-4k\003\367\377\256\372\241\375u"
+}
+snr: 6.0
+hops_away: 3
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 1183264611 (!46872f63)
+snr: 4.75
+device_metrics {
+  battery_level: 71
+  voltage: 3.905
+  channel_utilization: 12.946667
+  air_util_tx: 2.9019723
+  uptime_seconds: 76460
+}
+hops_away: 5
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 2733364712 (!a2ebd5e8)
+position {
+  latitude_i: 356253696
+  longitude_i: -1060372480
+  altitude: 1800
+  time: 1755208719
+  location_source: LOC_MANUAL
+}
+snr: -2.25
+last_heard: 1755208080
+hops_away: 5
+
+
+8/14/25 4:07:07 PM [NodeInfo]
+num: 1130082140 (!435baf5c)
+user {
+  id: "!435baf5c"
+  long_name: "BajotumnIT_Go1"
+  short_name: "\360\237\223\237"
+  macaddr: "H\312C[\257\\"
+  hw_model: LILYGO_TBEAM_S3_CORE
+  public_key: "w\030/\253@\332\274\307;\016\a\333\b\2727\343L\301dw\001\314\216G\307l\315\312\352S[V"
+}
+
+
+8/14/25 4:07:06 PM [NodeInfo]
+num: 614370215 (!249e8ba7)
+user {
+  id: "!249e8ba7"
+  long_name: "NI5V_Base"
+  short_name: "NI5V"
+  macaddr: "\360\267$\236\213\247"
+  hw_model: RAK4631
+  public_key: "\326\2410\201\335\347>bl-\315\255\252,\345IL\343\030\244\212Y\214\305Fv-e\341\0178:"
+}
+snr: 5.25
+hops_away: 3
+
+
+8/14/25 4:07:06 PM [NodeInfo]
+num: 4201581325 (!fa6f0b0d)
+user {
+  id: "!fa6f0b0d"
+  long_name: "scum1_base"
+  short_name: "scm1"
+  macaddr: "\354\241\372o\v\r"
+  hw_model: RAK4631
+  public_key: "\0345,\261\303\323\377p;\rW\351\224\231_b\b\350;\351\331:gt\316\304\217Y\034\3612a"
+}
+snr: 4.25
+hops_away: 2
+
+
+8/14/25 4:07:06 PM [NodeInfo]
+num: 3127312892 (!ba6701fc)
+user {
+  id: "!ba6701fc"
+  long_name: "BBS Mesh hosted by bajotumn.com"
+  short_name: "BBS1"
+  macaddr: "\020 \272g\001\374"
+  hw_model: HELTEC_V3
+  public_key: "\246\344\277\231\r\005\222\347O\213D\'9\347\360\340[l\347W\323)\020s\347\241\204\000d\205\274$"
+}
+
+
+8/14/25 4:07:06 PM [NodeInfo]
+num: 1129934056 (!43596ce8)
+user {
+  id: "!43596ce8"
+  long_name: "YIF Base 2"
+  short_name: "YIF2"
+  macaddr: "H\312CYl\350"
+  hw_model: HELTEC_V3
+}
+
+
+8/14/25 4:07:06 PM [NodeInfo]
+num: 2224712816 (!849a6c70)
+snr: -0.75
+device_metrics {
+  battery_level: 101
+  voltage: 4.269
+  channel_utilization: 15.028334
+  air_util_tx: 2.0382776
+  uptime_seconds: 3362732
+}
+hops_away: 3
+
+
+8/14/25 4:07:06 PM [NodeInfo]
+num: 1129714352 (!435612b0)
+user {
+  id: "!435612b0"
+  long_name: "KG5VBY-outdoor2"
+  short_name: "12b0"
+  macaddr: "H\312CV\022\260"
+  hw_model: HELTEC_WIRELESS_PAPER
+}
+
+
+8/14/25 4:07:06 PM [NodeInfo]
+num: 2733226028 (!a2e9b82c)
+snr: 6.0
+last_heard: 1755208363
+device_metrics {
+  battery_level: 101
+  voltage: 0.0
+  channel_utilization: 33.443336
+  air_util_tx: 5.9681664
+  uptime_seconds: 3782846
+}
+hops_away: 3
+
+
+8/14/25 4:07:06 PM [NodeInfo]
+num: 3711455628 (!dd38518c)
+user {
+  id: "!dd38518c"
+  long_name: "Meshtastic 518c"
+  short_name: "518c"
+  macaddr: "\344y\3358Q\214"
+  hw_model: RAK4631
+  public_key: "\t\022\206\271\220\254\033{\321\216\0332\361\221\306Q\005\311!\370*\3031\277>\246v2\227 ,?"
+}
+snr: 6.5
+device_metrics {
+  battery_level: 101
+  voltage: 4.214
+  channel_utilization: 14.794999
+  air_util_tx: 0.0
+  uptime_seconds: 65
+}
+hops_away: 0
+
+
+8/14/25 4:07:06 PM [ModuleConfig PAXCOUNTER]
+paxcounter {
+}
+
+
+8/14/25 4:07:06 PM [ModuleConfig DETECTION_SENSOR]
+detection_sensor {
+  minimum_broadcast_secs: 45
+  detection_trigger_type: LOGIC_HIGH
+}
+
+
+8/14/25 4:07:06 PM [ModuleConfig AMBIENT_LIGHTING]
+ambient_lighting {
+  current: 10
+  red: 194
+  green: 18
+  blue: 103
+}
+
+
+8/14/25 4:07:06 PM [ModuleConfig NEIGHBOR_INFO]
+neighbor_info {
+}
+
+
+8/14/25 4:07:06 PM [ModuleConfig REMOTE_HARDWARE]
+remote_hardware {
+}
+
+
+8/14/25 4:07:06 PM [ModuleConfig AUDIO]
+audio {
+}
+
+
+8/14/25 4:07:06 PM [ModuleConfig CANNED_MESSAGE]
+canned_message {
+}
+
+
+8/14/25 4:07:06 PM [ModuleConfig TELEMETRY]
+telemetry {
+}
+
+
+8/14/25 4:07:06 PM [ModuleConfig RANGE_TEST]
+range_test {
+  enabled: true
+  sender: 15
+}
+
+
+8/14/25 4:07:05 PM [ModuleConfig STORE_FORWARD]
+store_forward {
+}
+
+
+8/14/25 4:07:05 PM [ModuleConfig EXTERNAL_NOTIFICATION]
+external_notification {
+  enabled: true
+  output_ms: 1000
+  output: 36
+  active: true
+  alert_message: true
+  nag_timeout: 60
+}
+
+
+8/14/25 4:07:05 PM [ModuleConfig SERIAL]
+serial {
+}
+
+
+8/14/25 4:07:05 PM [ModuleConfig MQTT]
+mqtt {
+  address: "mqtt.meshtastic.org"
+  username: "meshdev"
+  password: "large4cats"
+  encryption_enabled: true
+  root: "msh/US"
+}
+
+
+8/14/25 4:07:05 PM [Config PAYLOADVARIANT_NOT_SET]
+
+
+8/14/25 4:07:05 PM [Config SESSIONKEY]
+sessionkey {
+}
+
+
+8/14/25 4:07:05 PM [Config SECURITY]
+security {
+  public_key: "D\026\000\017\351\005m\275\025\330hl\323T\306w\220n\003\266+2\227u\331\245\320\246\203\372\211\000"
+  private_key: "\350\272Wc\253Dq\356u0B%\223\235+\277Z\342\264\275\202\347\203t\001\332c\317\233R\372\177"
+  serial_enabled: true
+}
+
+
+8/14/25 4:07:05 PM [Config BLUETOOTH]
+bluetooth {
+  enabled: true
+  mode: FIXED_PIN
+  fixed_pin: 123456
+}
+
+
+8/14/25 4:07:05 PM [Config LORA]
+lora {
+  use_preset: true
+  region: US
+  hop_limit: 3
+  tx_enabled: true
+  tx_power: 30
+  sx126x_rx_boosted_gain: true
+}
+
+
+8/14/25 4:07:05 PM [Config DISPLAY]
+display {
+  screen_on_secs: 600
+  wake_on_tap_or_motion: true
+}
+
+
+8/14/25 4:07:05 PM [Config NETWORK]
+network {
+  ntp_server: "meshtastic.pool.ntp.org"
+}
+
+
+8/14/25 4:07:05 PM [Config POWER]
+power {
+  wait_bluetooth_secs: 60
+  sds_secs: 4294967295
+  ls_secs: 300
+  min_wake_secs: 10
+}
+
+
+8/14/25 4:07:05 PM [Config POSITION]
+position {
+  position_broadcast_secs: 900
+  position_broadcast_smart_enabled: true
+  gps_update_interval: 120
+  position_flags: 811
+  broadcast_smart_minimum_distance: 100
+  broadcast_smart_minimum_interval_secs: 30
+  gps_mode: ENABLED
+}
+
+
+8/14/25 4:07:05 PM [Config DEVICE]
+device {
+  node_info_broadcast_secs: 10800
+}
+
+
+8/14/25 4:07:05 PM [Channel]
+index: 7
+settings {
+}
+
+
+8/14/25 4:07:05 PM [Channel]
+index: 6
+settings {
+}
+
+
+8/14/25 4:07:04 PM [Channel]
+index: 5
+settings {
+}
+
+
+8/14/25 4:07:04 PM [Channel]
+index: 4
+settings {
+}
+
+
+8/14/25 4:07:04 PM [Channel]
+index: 3
+settings {
+}
+
+
+8/14/25 4:07:04 PM [Channel]
+index: 2
+settings {
+}
+
+
+8/14/25 4:07:04 PM [Channel]
+index: 1
+settings {
+}
+
+
+8/14/25 4:07:04 PM [Channel]
+settings {
+  psk: "\001"
+  module_settings {
+    position_precision: 13
+  }
+}
+role: PRIMARY
+
+
+8/14/25 4:07:04 PM [DeviceMetadata]
+firmware_version: "2.5.14.f2ee0df"
+device_state_version: 23
+canShutdown: true
+hasBluetooth: true
+hasEthernet: true
+position_flags: 811
+hw_model: RAK4631
+hasPKC: true
+excluded_modules: 4480
+
+
+8/14/25 4:07:04 PM [NodeInfo]
+num: 1304564327 (!4dc21267)
+user {
+  id: "!4dc21267"
+  long_name: "Meshtastic 1267"
+  short_name: "1267"
+  macaddr: "\325\366M\302\022g"
+  hw_model: RAK4631
+  public_key: "D\026\000\017\351\005m\275\025\330hl\323T\306w\220n\003\266+2\227u\331\245\320\246\203\372\211\000"
+}
+position {
+  time: 1755208545
+}
+snr: -17.75
+last_heard: 1755208545
+device_metrics {
+  battery_level: 101
+  voltage: 4.236
+  channel_utilization: 8.918333
+  air_util_tx: 0.027583333
+  uptime_seconds: 60
+}
+is_favorite: true
+
+
+8/14/25 4:07:04 PM [MyNodeInfo]
+my_node_num: 1304564327 (!4dc21267)
+min_app_version: 30200
+device_id: "\200\370\221\340\240\331\222\363g\022\302M\366\025\022\032"
+pio_env: "rak4631"
+
+
+8/14/25 4:06:55 PM [Packet]
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: ADMIN_APP
+  payload: "\232\0 (!00000000)02\004*\002\030\001\252\006\bv\250\300\035\375\207z\\"
+}
+id: 2082245609
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 4:06:52 PM [Packet]
+from: 3711455628 (!dd38518c) (!dd38518c)
+to: 3711455628
+decoded {
+  portnum: ADMIN_APP
+  payload: "B\006*\004\b\001\030\001\252\006\bv\250\300\035\375\207z\\"
+  request_id: 2082245608
+}
+id: 3316301278
+rx_time: 1755209210
+hop_limit: 3
+priority: RELIABLE
+
+
+8/14/25 4:06:52 PM [Packet]
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: ADMIN_APP
+  payload: "8\0 (!00000000)04\252\006\bv\250\300\035\375\207z\\"
+  want_response: true
+}
+id: 2082245608
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 4:06:44 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\254g\277\024\025\"\370\\\300\030\367\v%\345]\236h(\002=\346]\236hP/`\273\003x\001\200\001\220\214\346\017\230\001\004\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 2147859912
+rx_time: 1755209202
+rx_snr: 5.0
+hop_limit: 1
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:06:42 PM [Packet]
+from: 3711455628 (!dd38518c) (!dd38518c)
+to: 3711455628
+decoded {
+  portnum: ADMIN_APP
+  payload: "B\006*\004\b\001\030\001\252\006\bv\250\300\035\375\207z\\"
+  request_id: 2082245607
+}
+id: 3431479773
+rx_time: 1755209200
+hop_limit: 3
+priority: RELIABLE
+
+
+8/14/25 4:06:42 PM [Packet]
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: ADMIN_APP
+  payload: "8\0 (!00000000)04\252\006\b\233\032!\222\222\'\243\327"
+  want_response: true
+}
+id: 2082245607
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 4:06:34 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 53"
+  bitfield: 0
+}
+id: 2720385260
+rx_time: 1755209192
+rx_snr: 6.25
+rx_rssi: -16
+
+
+8/14/25 4:06:33 PM [Packet]
+from: 4059234021 (!f1f2fee5)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!f1f2fee5\022\017Meshtastic fee5\032\004fee5\"\006\317\024\361\362\376\345(\aB P\006\331\226|\244\"\r\b\216R\227f\202\374\312\374\307\324d\004Pf\027\231m\006\316\307\237K\030"
+  request_id: 1652757980
+  bitfield: 0
+}
+id: 3687574011
+rx_time: 1755209191
+rx_snr: 6.25
+hop_limit: 2
+rx_rssi: -39
+hop_start: 2
+
+
+8/14/25 4:06:27 PM [Packet]
+from: 4059234021 (!f1f2fee5)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\221\021%\343]\236h(\002X\323\001x\000\200\001\000\230\001\005\270\001\r"
+  bitfield: 0
+}
+id: 2513124858
+rx_time: 1755209185
+rx_snr: 6.75
+hop_limit: 3
+rx_rssi: -37
+hop_start: 3
+
+
+8/14/25 4:06:21 PM [Packet]
+from: 2691974752 (!a0744660)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000D\025\025\000\000\324\300\030\245\020%\343]\236h(\002X\215\001x\000\200\001\000\230\001\b\270\001\r"
+  bitfield: 0
+}
+id: 4234483859
+rx_time: 1755209179
+rx_snr: 3.0
+hop_limit: 4
+rx_rssi: -105
+hop_start: 6
+relay_node: 24
+
+
+8/14/25 4:06:16 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 52"
+  bitfield: 0
+}
+id: 2317348075
+rx_time: 1755209174
+rx_snr: 6.25
+rx_rssi: -20
+
+
+8/14/25 4:06:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\314]\236h\022\024\be\025\345\320\206@\035\326\243\337A%E#\201>(\305\a"
+}
+id: 565686747
+rx_time: 1755209164
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:06:02 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 51"
+  bitfield: 0
+}
+id: 116795626
+rx_time: 1755209160
+rx_snr: 6.0
+rx_rssi: -25
+
+
+8/14/25 4:05:57 PM [Packet]
+from: 2534342536 (!970eff88)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\272]\236h\022\025\be\025#\333\311@\035\264\201N@%<+\236?(\267\377\033"
+  bitfield: 0
+}
+id: 3205380605
+rx_time: 1755209154
+rx_snr: 5.5
+hop_limit: 1
+rx_rssi: -101
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:05:56 PM [Packet]
+from: 4125986714 (!f5ed8f9a)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!f5ed8f9a\022\025MCL, JLL NW ALBQ 8f9a\032\004\360\237\217\260\"\006\341\327\365\355\217\232(EB \031J5\210\206\343\002\366\363\275\327=\272UnQ;m\271\210:\352c\204\232\002R0I^\352\'H\000"
+  bitfield: 1
+}
+id: 998749645
+rx_time: 1755209153
+rx_snr: 4.25
+rx_rssi: -101
+hop_start: 4
+relay_node: 24
+
+
+8/14/25 4:05:46 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 50"
+  bitfield: 0
+}
+id: 330731753
+rx_time: 1755209144
+rx_snr: 6.5
+rx_rssi: -39
+
+
+8/14/25 4:05:44 PM [Packet]
+from: 2797151289 (!a6b92439)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!a6b92439\022\fJemezNE_2439\032\004JmNE\"\006\364\a\246\271$9(\t8\vB \277Z\3702\226\210\257\344\210\276Ki\254\210\206\355\004\250\f\2237;/\t\323\262]\\\226\035\244jH\001"
+  bitfield: 0
+}
+id: 1045232991
+rx_time: 1755209140
+rx_snr: -2.0
+hop_limit: 7
+rx_rssi: -111
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:05:30 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 49"
+  bitfield: 0
+}
+id: 1033311464
+rx_time: 1755209128
+rx_snr: 6.25
+rx_rssi: -31
+
+
+8/14/25 4:05:18 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 48"
+  bitfield: 0
+}
+id: 1722502375
+rx_time: 1755209113
+rx_snr: 6.25
+rx_rssi: -33
+
+
+8/14/25 4:05:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\220]\236h\022\024\be\025\203\300\206@\035\253\252\240A%E#\201>(\211\a"
+}
+id: 2004388314
+rx_time: 1755209104
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:05:04 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\303p\277\024\0258\363\\\300\030\376\v%\207]\236h(\002=\207]\236hP/`\272\003x\000\200\001\220\214\346\017\230\001\004\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 4211619269
+rx_time: 1755209102
+rx_snr: 5.25
+hop_limit: 2
+rx_rssi: -102
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:05:00 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 47"
+  bitfield: 0
+}
+id: 2099251429
+rx_time: 1755209098
+rx_snr: 6.0
+rx_rssi: -33
+
+
+8/14/25 4:04:53 PM [Packet]
+from: 601295452 (!23d70a5c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\354\024\025\000\000|\300%|]\236h(\002H\322\031X\335\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 1652506503
+rx_time: 1755209090
+rx_snr: -18.75
+rx_rssi: -128
+hop_start: 5
+relay_node: 44
+
+
+8/14/25 4:04:53 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 46"
+  bitfield: 0
+}
+id: 2661391588
+rx_time: 1755209083
+rx_snr: 6.25
+rx_rssi: -33
+
+
+8/14/25 4:04:35 PM [Packet]
+from: 4222537374 (!fbaece9e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!fbaece9e\022\020BajotumnIT_Truck\032\004\360\237\233\273\"\006\316V\373\256\316\236(\tB 4\262\\h\317\324<\270U(\"I\220#Un1y\253\272OPq\324O4C%\3755\321t"
+  bitfield: 1
+}
+id: 2033665086
+rx_time: 1755209073
+rx_snr: 5.75
+rx_rssi: -100
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:04:30 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 45"
+  bitfield: 0
+}
+id: 1674390755
+rx_time: 1755209068
+rx_snr: 5.75
+rx_rssi: -33
+
+
+8/14/25 4:04:17 PM [Packet]
+from: 175564688 (!0a76e790)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rB]\236h\032\n\r\024\256\363A\025ff1B"
+  bitfield: 0
+}
+id: 1238281848
+rx_time: 1755209055
+rx_snr: 5.25
+rx_rssi: -101
+hop_start: 4
+relay_node: 24
+
+
+8/14/25 4:04:15 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 44"
+  bitfield: 0
+}
+id: 3781561570
+rx_time: 1755209053
+rx_snr: 6.0
+rx_rssi: -33
+
+
+8/14/25 4:04:08 PM [Packet]
+from: 748681242 (!2c9ff81a)
+to: 1819528640 (!6c73cdc0)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!2c9ff81a\022\foperator23-r\032\004o23r\"\006\372\334,\237\370\032(\t"
+  want_response: true
+}
+id: 2478353097
+rx_time: 1755209045
+rx_snr: -0.25
+rx_rssi: -111
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 4:04:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rT]\236h\022\024\be\025\264\310\206@\035\357\356dA%E#\201>(\315\006"
+}
+id: 2573526489
+rx_time: 1755209044
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:04:00 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 43"
+  bitfield: 0
+}
+id: 914993377
+rx_time: 1755209038
+rx_snr: 6.25
+rx_rssi: -33
+
+
+8/14/25 4:03:58 PM [Packet]
+from: 2733226028 (!a2e9b82c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rA]\236h\032\017\r\256G\215A\025\000\306\037B\035\266\034.D"
+  bitfield: 1
+}
+id: 890449272
+rx_time: 1755209036
+rx_snr: -7.5
+hop_limit: 1
+rx_rssi: -117
+hop_start: 3
+relay_node: 60
+
+
+8/14/25 4:03:47 PM [Packet]
+from: 4188323786 (!f9a4bfca)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r1]\236h\022\025\bA\025\335$v@\035\247\r\203A%\271\220\330?(\212\335\026"
+  bitfield: 0
+}
+id: 4218246197
+rx_time: 1755209024
+rx_snr: 5.25
+rx_rssi: -102
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:03:45 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 42"
+  bitfield: 0
+}
+id: 690564320
+rx_time: 1755209022
+rx_snr: 6.25
+rx_rssi: -33
+
+
+8/14/25 4:03:37 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 41"
+  bitfield: 0
+}
+id: 4209269983
+rx_time: 1755209007
+rx_snr: 6.5
+rx_rssi: -33
+
+
+8/14/25 4:03:15 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 40"
+  bitfield: 0
+}
+id: 2297562334
+rx_time: 1755208993
+rx_snr: 6.0
+rx_rssi: -33
+
+
+8/14/25 4:03:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\030]\236h\022\024\be\025\345\320\206@\035\000\000\304A%e;_>(\221\006"
+}
+id: 1274649048
+rx_time: 1755208984
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:03:00 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 39"
+  bitfield: 0
+}
+id: 2641312989
+rx_time: 1755208978
+rx_snr: 6.25
+rx_rssi: -35
+
+
+8/14/25 4:02:46 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 38"
+  bitfield: 0
+}
+id: 53368028
+rx_time: 1755208963
+rx_snr: 6.75
+rx_rssi: -36
+
+
+8/14/25 4:02:44 PM [Packet]
+from: 2732898136 (!a2e4b758)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\266\307\367\024\025!\330|\300\030\235\f%\371\\\236h(\002X\272\001x\000\200\001\260\274\220\016\230\001\006\270\001 "
+  bitfield: 1
+}
+id: 2875406569
+rx_time: 1755208962
+rx_snr: 5.0
+hop_limit: 1
+rx_rssi: -102
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:02:35 PM [Packet]
+from: 1595584020 (!5f1aae14)
+to: 2939562793 (!af362b29)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!5f1aae14\022\fRMJ-Roaming0\032\003RMJ\"\006\355\a_\032\256\024(EB b\371\323~\212\'p\a0\001 \354&e\016q\2568S\245\316V\252\252\024\270JPG\032+\032"
+  request_id: 1362410798
+  bitfield: 1
+}
+id: 3171860365
+rx_time: 1755208951
+rx_snr: 4.25
+rx_rssi: -101
+hop_start: 5
+relay_node: 24
+
+
+8/14/25 4:02:21 PM [Packet]
+from: 4066715781 (!f2652885)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\354\024\025\000\000|\300\030\335\f%\341\\\236h(\002X\201\001x\000\200\001\370\350\246\r\230\001\n\270\001\r"
+  bitfield: 0
+}
+id: 942751434
+rx_time: 1755208938
+rx_snr: 5.0
+hop_limit: 4
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 4:02:15 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 37"
+  bitfield: 0
+}
+id: 2751198427
+rx_time: 1755208932
+rx_snr: 6.0
+rx_rssi: -33
+
+
+8/14/25 4:02:15 PM [Packet]
+from: 1618451972 (!60779e04)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\374\024\025\000\000l\300\030\272\f%\341C\236h(\003x\000\200\001\000\270\001\r"
+  bitfield: 1
+}
+id: 1364539020
+rx_time: 1755208931
+rx_snr: 5.25
+rx_rssi: -101
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:02:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\334\\\236h\022\024\be\025\264\310\206@\03543\233A%\301\026L>(\325\005"
+}
+id: 3866325463
+rx_time: 1755208924
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:01:59 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 36"
+  bitfield: 0
+}
+id: 2146811098
+rx_time: 1755208917
+rx_snr: 6.0
+rx_rssi: -33
+
+
+8/14/25 4:01:47 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 35"
+  bitfield: 0
+}
+id: 2443451609
+rx_time: 1755208902
+rx_snr: 6.5
+rx_rssi: -33
+
+
+8/14/25 4:01:39 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r.m\277\024\025\r\364\\\300\030\343\v%\266\\\236h(\002=\253\\\236hP/`\316\001x\001\200\001\270\206\320\003\230\001\006\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 980984173
+rx_time: 1755208897
+rx_snr: -2.0
+hop_limit: 2
+rx_rssi: -112
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 4:01:29 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 34"
+  bitfield: 0
+}
+id: 1623892184
+rx_time: 1755208887
+rx_snr: 5.75
+rx_rssi: -33
+
+
+8/14/25 4:01:14 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 33"
+  bitfield: 0
+}
+id: 2428003543
+rx_time: 1755208871
+rx_snr: 6.25
+rx_rssi: -33
+
+
+8/14/25 4:01:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\240\\\236h\022\024\be\025\264\310\206@\035K~\275A%\301\026L>(\231\005"
+}
+id: 1178825174
+rx_time: 1755208864
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:00:59 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 32"
+  bitfield: 0
+}
+id: 1846293718
+rx_time: 1755208856
+rx_snr: 6.25
+rx_rssi: -35
+
+
+8/14/25 4:00:44 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 31"
+  bitfield: 0
+}
+id: 3195533525
+rx_time: 1755208842
+rx_snr: 6.25
+rx_rssi: -33
+
+
+8/14/25 4:00:37 PM [Packet]
+from: 2732898136 (!a2e4b758)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\304\300\367\024\025\003\027}\300\030\311\f%\200\\\236h(\002X\245\004x\000\200\001\260\274\220\016\230\001\005\270\001 "
+  bitfield: 1
+}
+id: 4128224488
+rx_time: 1755208835
+rx_snr: -1.5
+rx_rssi: -112
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 4:00:29 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 30"
+  bitfield: 0
+}
+id: 1335405780
+rx_time: 1755208826
+rx_snr: 5.5
+rx_rssi: -34
+
+
+8/14/25 4:00:13 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 29"
+  bitfield: 0
+}
+id: 649062611
+rx_time: 1755208811
+rx_snr: 6.0
+rx_rssi: -36
+
+
+8/14/25 4:00:11 PM [Packet]
+from: 27865817 (!01a932d9)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\f\025\025\000\000\214\300\030\304\r%c\\\236h(\002X\357\001x\001\200\001\000\230\001\a\270\001\r"
+  bitfield: 0
+}
+id: 2624057833
+rx_time: 1755208809
+rx_snr: 5.5
+rx_rssi: -101
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 4:00:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rd\\\236h\022\024\be\025\203\300\206@\035\222_\225A%qc/>(\335\004"
+}
+id: 4199168468
+rx_time: 1755208804
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 4:00:03 PM [Packet]
+from: 3465985171 (!ce96bc93)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\354\024\025\000\000|\300\030\203\r%P\\\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 2984521741
+rx_time: 1755208801
+rx_snr: 4.25
+hop_limit: 2
+rx_rssi: -102
+hop_start: 5
+relay_node: 24
+
+
+8/14/25 3:59:58 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 28"
+  bitfield: 0
+}
+id: 1662557393
+rx_time: 1755208796
+rx_snr: 6.25
+rx_rssi: -33
+
+
+8/14/25 3:59:44 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 27"
+  bitfield: 0
+}
+id: 1325785296
+rx_time: 1755208782
+rx_snr: 6.25
+rx_rssi: -34
+
+
+8/14/25 3:59:28 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 26"
+  bitfield: 0
+}
+id: 3255857359
+rx_time: 1755208766
+rx_snr: 6.0
+rx_rssi: -37
+
+
+8/14/25 3:59:19 PM [Packet]
+from: 2733364712 (!a2ebd5e8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000<\025\025\000\000\314\300\030\210\016%\017\\\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 1
+}
+id: 3423046385
+rx_time: 1755208757
+rx_snr: 5.5
+hop_limit: 2
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:59:13 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 25"
+  bitfield: 0
+}
+id: 1569877198
+rx_time: 1755208751
+rx_snr: 6.0
+rx_rssi: -33
+
+
+8/14/25 3:59:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r(\\\236h\022\024\be\025R\270\206@\035\021\021\265A%qc/>(\241\004"
+}
+id: 4050713043
+rx_time: 1755208744
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:58:59 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 24"
+  bitfield: 0
+}
+id: 606639309
+rx_time: 1755208736
+rx_snr: 6.5
+rx_rssi: -35
+
+
+8/14/25 3:58:55 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\270d\277\024\025X\370\\\300\030\324\v%\023\\\236h(\002=\024\\\236hP/`\262\001x\001\200\001\240\235\274\b\230\001\004\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 3360382395
+rx_time: 1755208732
+rx_snr: 4.75
+hop_limit: 1
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:58:43 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 23"
+  bitfield: 0
+}
+id: 1102969036
+rx_time: 1755208721
+rx_snr: 6.25
+rx_rssi: -34
+
+
+8/14/25 3:58:40 PM [Packet]
+from: 318519515 (!12fc38db)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\324\024\025\000\000\204\300\030\320\r%\t\\\236h(\002X^x\000\200\001\320\327\320\a\230\001\f\270\001\r"
+  bitfield: 0
+}
+id: 3647066437
+rx_time: 1755208717
+rx_snr: 4.5
+hop_limit: 1
+rx_rssi: -100
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 3:58:34 PM [Packet]
+from: 2732898136 (!a2e4b758)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\177\307\367\024\025\313\340|\300\030\244\f%\006\\\236h(\002X\252\001x\000\200\001\260\274\220\016\230\001\005\270\001 "
+  bitfield: 1
+}
+id: 3394014439
+rx_time: 1755208712
+rx_snr: -17.0
+hop_limit: 2
+rx_rssi: -128
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 3:58:28 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 22"
+  bitfield: 0
+}
+id: 3394750667
+rx_time: 1755208706
+rx_snr: 6.25
+rx_rssi: -32
+
+
+8/14/25 3:58:14 PM [Packet]
+from: 1000226604 (!3b9e3f2c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\374\024\025\000\000l\300\030\237\f%\342[\236h(\002X\247\001x\000\200\001\360\361\261\004\230\001\006\270\001\r"
+  bitfield: 0
+}
+id: 2029725599
+rx_time: 1755208691
+rx_snr: -0.5
+hop_limit: 4
+rx_rssi: -112
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 3:58:13 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 21"
+  bitfield: 0
+}
+id: 2884797642
+rx_time: 1755208690
+rx_snr: 6.0
+rx_rssi: -84
+
+
+8/14/25 3:58:07 PM [Packet]
+from: 2985306289 (!b1f028b1)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\n\025\025\000\000\212\300(\001\270\001\016"
+  bitfield: 0
+}
+id: 2916691459
+rx_time: 1755208684
+rx_snr: 5.0
+hop_limit: 2
+rx_rssi: -101
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 3:58:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\354[\236h\022\024\be\025\264\310\206@\035\262\344\277A%\317>\034>(\345\003"
+}
+id: 2022599122
+rx_time: 1755208684
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:58:04 PM [Packet]
+from: 3663935668 (!da6338b4)
+to: 1128168292 (!433e7b64)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!da6338b4\022\017Meshtastic 38b4\032\00438b4\"\0064\267\332c8\264(+"
+  want_response: true
+}
+id: 1159130260
+rx_time: 1755208681
+rx_snr: 4.25
+rx_rssi: -104
+hop_start: 3
+next_hop: 57
+relay_node: 24
+
+
+8/14/25 3:57:58 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 20"
+  bitfield: 0
+}
+id: 3921346761
+rx_time: 1755208676
+rx_snr: 6.75
+rx_rssi: -20
+
+
+8/14/25 3:57:43 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 19"
+  bitfield: 0
+}
+id: 894315720
+rx_time: 1755208660
+rx_snr: 6.25
+rx_rssi: -21
+
+
+8/14/25 3:57:36 PM [Packet]
+from: 1128168292 (!433e7b64)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\364\024\025\000\000\234\300\030\377\017%:P\236h(\003x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 4063188119
+rx_time: 1755208653
+rx_snr: -19.25
+hop_limit: 1
+rx_rssi: -128
+hop_start: 3
+relay_node: 44
+
+
+8/14/25 3:57:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\260[\236h\022\024\be\025\345\320\206@\035\256G\372A%\036\246\356=(\251\003"
+}
+id: 956615121
+rx_time: 1755208624
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:57:00 PM [Packet]
+from: 2224694508 (!849a24ec)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!849a24ec\022\fNat_Mobile_1\032\004NtM1\"\006\260\201\204\232$\354(+B \371P\263\031\240\346G\377&\030\207\252\335)\264.,gC.\355\254^VN\2266\316i\222\366l"
+  bitfield: 0
+}
+id: 85888791
+rx_time: 1755208615
+rx_snr: 5.0
+hop_limit: 1
+rx_rssi: -100
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 3:56:42 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 18"
+  bitfield: 0
+}
+id: 4119587015
+rx_time: 1755208600
+rx_snr: 6.5
+rx_rssi: -21
+
+
+8/14/25 3:56:31 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 17"
+  bitfield: 0
+}
+id: 3133372614
+rx_time: 1755208589
+rx_snr: 6.25
+rx_rssi: -21
+
+
+8/14/25 3:56:25 PM [Packet]
+from: 4202718812 (!fa80665c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\ry[\236h\022\025\be\025\002+\207@\035`,\202A%M\251 @(\356\331\025"
+  bitfield: 1
+}
+id: 3407526205
+rx_time: 1755208583
+rx_snr: 4.25
+hop_limit: 1
+rx_rssi: -101
+hop_start: 5
+relay_node: 24
+
+
+8/14/25 3:56:22 PM [Packet]
+from: 1000226604 (!3b9e3f2c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!3b9e3f2c\022\nYIF Base 1\032\004YIF1\"\006\350\272;\236?,(\tB \212\211cCO\027\231Qrd\225\332\352\224\374h{5\375\250\256\220=)\252T\177\255\316_0\\"
+  bitfield: 0
+}
+id: 2884908958
+rx_time: 1755208579
+rx_snr: 5.0
+hop_limit: 1
+rx_rssi: -100
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:56:12 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 16"
+  bitfield: 0
+}
+id: 1796705477
+rx_time: 1755208570
+rx_snr: 6.5
+rx_rssi: -20
+
+
+8/14/25 3:56:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rt[\236h\022\024\be\025\027\331\206@\035\223_\321A%\327\\\310=(\355\002"
+}
+id: 1811698128
+rx_time: 1755208564
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:56:05 PM [Packet]
+from: 1595584020 (!5f1aae14)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000l\300\030\315\f%f[\236h(\002=\364Z\236hX\323\001x\001\200\001\000\230\001\b\270\001\r"
+  bitfield: 1
+}
+id: 1322972044
+rx_time: 1755208563
+rx_snr: 5.0
+hop_limit: 2
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:55:57 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 15"
+  bitfield: 0
+}
+id: 1445073092
+rx_time: 1755208555
+rx_snr: 6.25
+rx_rssi: -30
+
+
+8/14/25 3:55:43 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 14"
+  bitfield: 0
+}
+id: 4143604931
+rx_time: 1755208540
+rx_snr: 6.0
+rx_rssi: -26
+
+
+8/14/25 3:55:35 PM [Packet]
+from: 2956785920 (!b03cf900)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000d\025\025\000\000\244\300\030\274\021%H[\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 0
+}
+id: 1665912012
+rx_time: 1755208533
+rx_snr: -4.75
+hop_limit: 6
+rx_rssi: -116
+hop_start: 7
+relay_node: 60
+
+
+8/14/25 3:55:27 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 13"
+  bitfield: 0
+}
+id: 3904565442
+rx_time: 1755208524
+rx_snr: 6.0
+rx_rssi: -21
+
+
+8/14/25 3:55:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r8[\236h\022\024\be\025\027\331\206@\035\037\205\351A%%\277X=(\261\002"
+}
+id: 3829211598
+rx_time: 1755208504
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:55:05 PM [Packet]
+from: 640262788 (!2629a284)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\252Y\236h\032\n\r\303\365&B\025\244p\215A"
+  bitfield: 1
+}
+id: 2633213372
+rx_time: 1755208503
+rx_snr: -18.5
+rx_rssi: -128
+hop_start: 5
+relay_node: 57
+
+
+8/14/25 3:54:56 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r<\000\000\000\022\023\be\025P\215\207@\035~\261\016A%q\366\341<(<"
+  bitfield: 0
+}
+id: 1210356456
+rx_time: 1755208494
+rx_snr: -19.5
+rx_rssi: -128
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 3:54:39 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 1819479468 (!6c730dac)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!4dc21267\022\017Meshtastic 1267\032\0041267\"\006\325\366M\302\022g(\tB D\026\000\017\351\005m\275\025\330hl\323T\306w\220n\003\266+2\227u\331\245\320\246\203\372\211\000"
+  want_response: true
+  bitfield: 2
+}
+id: 669000897
+rx_time: 1755208477
+rx_snr: 6.25
+hop_limit: 3
+rx_rssi: -22
+hop_start: 3
+
+
+8/14/25 3:54:35 PM [Packet]
+from: 1819479468 (!6c730dac)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\001m\277\024\025\200\356\\\300\030\332\v%wX\236h(\002=HX\236hP/`\234\001x\001\200\001\350\227\277\005\230\001\006\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 1702238555
+rx_time: 1755208472
+rx_snr: -18.0
+hop_limit: 1
+rx_rssi: -128
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 3:54:33 PM [Packet]
+from: 1128109372 (!433d953c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!433d953c\022\nEkkoA-953c\032\004EkoA\"\006H\312C=\225<(+B )\027Xz\302\360\222\017\323\353Q\224Y\337\001@:\256\247\332\314-4k\003\367\377\256\372\241\375u"
+  bitfield: 0
+}
+id: 1565455021
+rx_time: 1755208471
+rx_snr: -17.75
+hop_limit: 1
+rx_rssi: -128
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 3:54:17 PM [Packet]
+from: 1183264611 (!46872f63)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rTX\236h\022\025\bG\025\205\353y@\035\214%OA%\352\2719@(\254\325\004"
+  bitfield: 1
+}
+id: 3468248848
+rx_time: 1755208455
+rx_snr: 4.25
+hop_limit: 2
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:54:12 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 12"
+  bitfield: 0
+}
+id: 4200734912
+rx_time: 1755208449
+rx_snr: 6.5
+rx_rssi: -23
+
+
+8/14/25 3:54:09 PM [Packet]
+from: 2733364712 (!a2ebd5e8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000<\025\025\000\000\314\300\030\210\016%EX\236h(\001x\000\200\001\000\270\001\r"
+  bitfield: 1
+}
+id: 112368
+rx_time: 1755208446
+rx_snr: 5.5
+hop_limit: 4
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:54:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\374Z\236h\022\024\be\025\345\320\206@\035=\n\323A%\232,\f=(\365\001"
+}
+id: 4174468557
+rx_time: 1755208444
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:53:55 PM [Packet]
+from: 1130082140 (!435baf5c)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!435baf5c\022\016BajotumnIT_Go1\032\004\360\237\223\237\"\006H\312C[\257\\(\fB w\030/\253@\332\274\307;\016\a\333\b\2727\343L\301dw\001\314\216G\307l\315\312\352S[VH\000"
+  want_response: true
+  bitfield: 3
+}
+id: 4156581143
+rx_time: 1755208433
+rx_snr: -1.75
+hop_limit: 1
+rx_rssi: -112
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 3:53:53 PM [Packet]
+from: 614370215 (!249e8ba7)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!249e8ba7\022\tNI5V_Base\032\004NI5V\"\006\360\267$\236\213\247(\tB \326\2410\201\335\347>bl-\315\255\252,\345IL\343\030\244\212Y\214\305Fv-e\341\0178:H\000"
+  bitfield: 0
+}
+id: 2041883283
+rx_time: 1755208431
+rx_snr: 5.75
+rx_rssi: -101
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 3:53:40 PM [Packet]
+from: 4201581325 (!fa6f0b0d)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!fa6f0b0d\022\nscum1_base\032\004scm1\"\006\354\241\372o\v\r(\tB \0345,\261\303\323\377p;\rW\351\224\231_b\b\350;\351\331:gt\316\304\217Y\034\3612a"
+  bitfield: 0
+}
+id: 2443812682
+rx_time: 1755208417
+rx_snr: 5.25
+hop_limit: 5
+rx_rssi: -102
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:53:10 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 11"
+  bitfield: 0
+}
+id: 971742399
+rx_time: 1755208388
+rx_snr: 6.25
+rx_rssi: -22
+
+
+8/14/25 3:53:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\300Z\236h\022\024\be\025H\341\206@\035\333@\303A%>|\206<(\271\001"
+}
+id: 2235537868
+rx_time: 1755208384
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:52:47 PM [Packet]
+from: 2224786680 (!849b8cf8)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\372c\277\024\025\332\370\\\300\030\201\f%\242Z\236h(\002=\242Z\236hP/`\265\001x\002\200\001\220\340\345\006\230\001\005\260\001\001\270\001 "
+  bitfield: 1
+}
+id: 979581359
+rx_time: 1755208364
+rx_snr: -17.25
+rx_rssi: -128
+hop_start: 7
+relay_node: 44
+
+
+8/14/25 3:52:41 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 10"
+  bitfield: 0
+}
+id: 3937806526
+rx_time: 1755208359
+rx_snr: 6.0
+rx_rssi: -18
+
+
+8/14/25 3:52:25 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 9"
+  bitfield: 0
+}
+id: 3735890109
+rx_time: 1755208343
+rx_snr: 7.0
+rx_rssi: -17
+
+
+8/14/25 3:52:10 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 8"
+  bitfield: 0
+}
+id: 4038480060
+rx_time: 1755208328
+rx_snr: 6.75
+rx_rssi: -17
+
+
+8/14/25 3:52:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\204Z\236h2\"\b}\025\202N\317A\035>|\206< \001(#0\0018\a@\bH\023X\003`\364\272\vh\260\364\a"
+}
+id: 3089448395
+rx_time: 1755208324
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:52:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\204Z\236h\022\023\be\025\333\371\206@\035\202N\317A%>|\206<(}"
+}
+id: 4029291978
+rx_time: 1755208324
+hop_limit: 3
+priority: BACKGROUND
+
+
+8/14/25 3:51:57 PM [Packet]
+from: 3127312892 (!ba6701fc)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!ba6701fc\022\037BBS Mesh hosted by bajotumn.com\032\004BBS1\"\006\020 \272g\001\374(+B \246\344\277\231\r\005\222\347O\213D\'9\347\360\340[l\347W\323)\020s\347\241\204\000d\205\274$H\000"
+  want_response: true
+  bitfield: 2
+}
+id: 97653855
+rx_time: 1755208314
+rx_snr: -5.75
+rx_rssi: -117
+hop_start: 7
+relay_node: 60
+
+
+8/14/25 3:51:55 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 7"
+  bitfield: 0
+}
+id: 1261982907
+rx_time: 1755208312
+rx_snr: 6.5
+rx_rssi: -18
+
+
+8/14/25 3:51:39 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 6"
+  bitfield: 0
+}
+id: 215081146
+rx_time: 1755208297
+rx_snr: 6.25
+rx_rssi: -19
+
+
+8/14/25 3:51:30 PM [Packet]
+from: 1129934056 (!43596ce8)
+to: 2224712816 (!849a6c70)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!43596ce8\022\nYIF Base 2\032\004YIF2\"\006H\312CYl\350(+"
+  want_response: true
+}
+id: 412038945
+rx_time: 1755208288
+rx_snr: 6.25
+hop_limit: 3
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:51:22 PM [Packet]
+from: 2224712816 (!849a6c70)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rMZ\236h\022\026\be\025\246\233\210@\035\016tpA%$s\002@(\254\237\315\001"
+}
+id: 1165744946
+rx_time: 1755208280
+rx_snr: 5.0
+rx_rssi: -100
+hop_start: 3
+relay_node: 24
+
+
+8/14/25 3:51:19 PM [Packet]
+from: 1129714352 (!435612b0)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!435612b0\022\017KG5VBY-outdoor2\032\00412b0\"\006H\312CV\022\260(1"
+  want_response: true
+}
+id: 1500669427
+rx_time: 1755208276
+rx_snr: 5.0
+hop_limit: 5
+rx_rssi: -101
+hop_start: 7
+relay_node: 24
+
+
+8/14/25 3:51:06 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\rGZ\236h\022\023\be\025\027\331\206@\035Q\270lA%\000\000\000\000(A"
+  bitfield: 0
+}
+id: 4080519625
+rx_time: 1755208263
+hop_limit: 3
+priority: BACKGROUND
+hop_start: 3
+relay_node: 140
+
+
+8/14/25 3:50:54 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 5"
+  bitfield: 0
+}
+id: 2507816121
+rx_time: 1755208252
+rx_snr: 7.25
+rx_rssi: -17
+
+
+8/14/25 3:50:37 PM [Packet]
+from: 3711455628 (!dd38518c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\301Y\236h\022\023\be\025\203\300\206@\035\211\210hA%\000\000\000\000(A"
+  bitfield: 0
+}
+id: 551197297
+rx_time: 1755208235
+rx_snr: -1.75
+hop_limit: 2
+rx_rssi: -112
+hop_start: 3
+relay_node: 57
+
+
+8/14/25 3:50:36 PM [Packet]
+from: 4222537374 (!fbaece9e)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: POSITION_APP
+  payload: "\r\000\000\004\025\025\000\000d\300\030\312\r%\253O\236h(\002X\226\001x\001\200\001\370\342\261\n\230\001\a\270\001\r"
+  bitfield: 1
+}
+id: 387683385
+rx_time: 1755208234
+rx_snr: -2.0
+rx_rssi: -112
+hop_start: 7
+relay_node: 57
+
+
+8/14/25 3:50:24 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r9\000\000\000\022\023\be\025\\\217\206@\035\372\305*A%\030\270\213=(9"
+  bitfield: 0
+}
+id: 720488630
+rx_time: 1755208222
+rx_snr: 7.0
+hop_limit: 3
+rx_rssi: -17
+hop_start: 3
+
+
+8/14/25 3:50:24 PM [Packet]
+from: 3711455628 (!dd38518c) (!dd38518c)
+to: 3711455628
+decoded {
+  portnum: ADMIN_APP
+  payload: "B\006*\004\b\001\030\001\252\006\b\233\032!\222\222\'\243\327"
+  request_id: 2082245606
+}
+id: 4273294792
+rx_time: 1755208221
+hop_limit: 3
+priority: RELIABLE
+
+
+8/14/25 3:50:24 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 3"
+  bitfield: 0
+}
+id: 2043544759
+rx_time: 1755208221
+rx_snr: 7.0
+rx_rssi: -16
+
+
+8/14/25 3:50:23 PM [Packet]
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: ADMIN_APP
+  payload: "8\0 (!00000000)04\252\006\b\326\022\356\261f\312\251f"
+  want_response: true
+}
+id: 2082245606
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 3:50:17 PM [Packet]
+from: 3711455628 (!dd38518c) (!dd38518c)
+to: 3711455628
+decoded {
+  portnum: ROUTING_APP
+  payload: "\030\000"
+  request_id: 2082245605
+}
+id: 89031110
+rx_time: 1755208215
+hop_limit: 3
+priority: ACK
+
+
+8/14/25 3:50:17 PM [Packet]
+from: 2733226028 (!a2e9b82c)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: TELEMETRY_APP
+  payload: "\r\vZ\236h\022\026\be\025\000\000\000\000\035\372\305\005B%8\373\276@(\276\361\346\001"
+  bitfield: 1
+}
+id: 3830288759
+rx_time: 1755208215
+rx_snr: 6.25
+rx_rssi: -33
+hop_start: 3
+
+
+8/14/25 3:50:15 PM [Packet]
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: ADMIN_APP
+  payload: "\335\0 (!00000000)02\027Z\236h\252\006\b\326\022\356\261f\312\251f"
+}
+id: 2082245605
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 3:50:15 PM [ConfigComplete]
+8
+
+8/14/25 3:50:15 PM [ModuleConfig PAXCOUNTER]
+paxcounter {
+}
+
+
+8/14/25 3:50:15 PM [ModuleConfig DETECTION_SENSOR]
+detection_sensor {
+  minimum_broadcast_secs: 45
+  detection_trigger_type: LOGIC_HIGH
+}
+
+
+8/14/25 3:50:15 PM [ModuleConfig AMBIENT_LIGHTING]
+ambient_lighting {
+  current: 10
+  red: 56
+  green: 81
+  blue: 140
+}
+
+
+8/14/25 3:50:15 PM [ModuleConfig NEIGHBOR_INFO]
+neighbor_info {
+}
+
+
+8/14/25 3:50:15 PM [ModuleConfig REMOTE_HARDWARE]
+remote_hardware {
+}
+
+
+8/14/25 3:50:14 PM [ModuleConfig AUDIO]
+audio {
+}
+
+
+8/14/25 3:50:14 PM [ModuleConfig CANNED_MESSAGE]
+canned_message {
+}
+
+
+8/14/25 3:50:14 PM [ModuleConfig TELEMETRY]
+telemetry {
+}
+
+
+8/14/25 3:50:14 PM [ModuleConfig RANGE_TEST]
+range_test {
+  enabled: true
+  save: true
+}
+
+
+8/14/25 3:50:14 PM [ModuleConfig STORE_FORWARD]
+store_forward {
+}
+
+
+8/14/25 3:50:14 PM [ModuleConfig EXTERNAL_NOTIFICATION]
+external_notification {
+  enabled: true
+  output_ms: 1000
+  output: 36
+  active: true
+  alert_message: true
+  nag_timeout: 60
+}
+
+
+8/14/25 3:50:14 PM [ModuleConfig SERIAL]
+serial {
+}
+
+
+8/14/25 3:50:14 PM [ModuleConfig MQTT]
+mqtt {
+  address: "mqtt.meshtastic.org"
+  username: "meshdev"
+  password: "large4cats"
+  encryption_enabled: true
+  root: "msh/US"
+}
+
+
+8/14/25 3:50:14 PM [Config DEVICE_UI]
+device_ui {
+}
+
+
+8/14/25 3:50:14 PM [Config SESSIONKEY]
+sessionkey {
+}
+
+
+8/14/25 3:50:14 PM [Config SECURITY]
+security {
+  public_key: "\t\022\206\271\220\254\033{\321\216\0332\361\221\306Q\005\311!\370*\3031\277>\246v2\227 ,?"
+  private_key: "\020XD\353!\020\300F\360J\216r\255%\306\002\223\341`\312\321\235V\255\261\311F\205\244\004\221C"
+  serial_enabled: true
+}
+
+
+8/14/25 3:50:14 PM [Config BLUETOOTH]
+bluetooth {
+  enabled: true
+  fixed_pin: 123456
+}
+
+
+8/14/25 3:50:14 PM [Config LORA]
+lora {
+  use_preset: true
+  region: US
+  hop_limit: 3
+  tx_enabled: true
+  tx_power: 30
+  sx126x_rx_boosted_gain: true
+}
+
+
+8/14/25 3:50:14 PM [Config DISPLAY]
+display {
+  screen_on_secs: 600
+  wake_on_tap_or_motion: true
+}
+
+
+8/14/25 3:50:14 PM [Config NETWORK]
+network {
+  ntp_server: "meshtastic.pool.ntp.org"
+}
+
+
+8/14/25 3:50:14 PM [Config POWER]
+power {
+  wait_bluetooth_secs: 60
+  sds_secs: 4294967295
+  ls_secs: 300
+  min_wake_secs: 10
+}
+
+
+8/14/25 3:50:14 PM [Config POSITION]
+position {
+  position_broadcast_secs: 900
+  position_broadcast_smart_enabled: true
+  gps_update_interval: 120
+  position_flags: 811
+  broadcast_smart_minimum_distance: 100
+  broadcast_smart_minimum_interval_secs: 30
+  gps_mode: ENABLED
+}
+
+
+8/14/25 3:50:13 PM [Config DEVICE]
+device {
+  node_info_broadcast_secs: 10800
+}
+
+
+8/14/25 3:50:13 PM [Channel]
+index: 7
+settings {
+}
+
+
+8/14/25 3:50:13 PM [Channel]
+index: 6
+settings {
+}
+
+
+8/14/25 3:50:13 PM [Channel]
+index: 5
+settings {
+}
+
+
+8/14/25 3:50:13 PM [Channel]
+index: 4
+settings {
+}
+
+
+8/14/25 3:50:13 PM [Channel]
+index: 3
+settings {
+}
+
+
+8/14/25 3:50:13 PM [Channel]
+index: 2
+settings {
+}
+
+
+8/14/25 3:50:13 PM [Channel]
+index: 1
+settings {
+}
+
+
+8/14/25 3:50:13 PM [Channel]
+settings {
+  psk: "\001"
+  module_settings {
+    position_precision: 13
+  }
+}
+role: PRIMARY
+
+
+8/14/25 3:50:13 PM [DeviceMetadata]
+firmware_version: "2.6.11.60ec05e"
+device_state_version: 24
+canShutdown: true
+hasBluetooth: true
+hasEthernet: true
+position_flags: 811
+hw_model: RAK4631
+hasPKC: true
+excluded_modules: 4480
+
+
+8/14/25 3:50:13 PM [NodeInfo]
+num: 3711455628 (!dd38518c)
+user {
+  id: "!dd38518c"
+  long_name: "Meshtastic 518c"
+  short_name: "518c"
+  macaddr: "\344y\3358Q\214"
+  hw_model: RAK4631
+  public_key: "\t\022\206\271\220\254\033{\321\216\0332\361\221\306Q\005\311!\370*\3031\277>\246v2\227 ,?"
+  is_unmessagable: false
+}
+position {
+}
+is_favorite: true
+
+
+8/14/25 3:50:13 PM [MyNodeInfo]
+my_node_num: 3711455628 (!dd38518c)
+min_app_version: 30200
+device_id: "\307\334\234j\035\002\222\230\214Q8\335yd\027\336"
+pio_env: "rak4631"
+
+
+8/14/25 3:49:52 PM [Packet]
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: ADMIN_APP
+  payload: "\232\0 (!00000000)02\006*\004\b\001\030\001\252\006\b\326\022\356\261f\312\251f"
+}
+id: 2082245604
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 3:49:46 PM [Packet]
+from: 3711455628 (!dd38518c) (!dd38518c)
+to: 3711455628
+decoded {
+  portnum: ADMIN_APP
+  payload: "B\004*\002\b\001\252\006\b\326\022\356\261f\312\251f"
+  request_id: 2082245603
+}
+id: 295352947
+rx_time: 1755208185
+hop_limit: 3
+priority: RELIABLE
+
+
+8/14/25 3:49:46 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: NODEINFO_APP
+  payload: "\n\t!4dc21267\022\017Meshtastic 1267\032\0041267\"\006\325\366M\302\022g(\tB D\026\000\017\351\005m\275\025\330hl\323T\306w\220n\003\266+2\227u\331\245\320\246\203\372\211\000"
+  want_response: true
+  bitfield: 2
+}
+id: 310863027
+rx_time: 1755208185
+rx_snr: 6.25
+hop_limit: 3
+rx_rssi: -16
+hop_start: 3
+
+
+8/14/25 3:49:46 PM [Packet]
+to: 3711455628 (!dd38518c)
+decoded {
+  portnum: ADMIN_APP
+  payload: "8\0 (!00000000)04\252\006\b\006\325\226\\\362\t\025\333"
+  want_response: true
+}
+id: 2082245603
+hop_limit: 3
+want_ack: true
+priority: RELIABLE
+
+
+8/14/25 3:49:45 PM [Packet]
+from: 1304564327 (!4dc21267)
+to: 4294967295 (!ffffffff)
+decoded {
+  portnum: RANGE_TEST_APP
+  payload: "seq 1"
+  bitfield: 0
+}
+id: 2320981172
+rx_time: 1755208184
+rx_snr: 7.0
+rx_rssi: -17
+
+
